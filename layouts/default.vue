@@ -83,67 +83,20 @@
     </header>
 
     <Nuxt />
-    <footer>
-      <div class="container footer">
+    <footer style="padding-top: 60px;
+    padding-bottom: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;    background: #0E0E64;">
+      <div class="container">
         <div class="row">
-          <div class="col-sm-5">
-            <strong>
-              <g-link to="/">
-                <g-image
-                  alt="BoldSign"
-                  src="~/assets/images/logo.svg"
-                  width="175"
-                  height="40"
-                />
-              </g-link>
-            </strong>
-
-            <div class="copyrights">
-              <a href=""
-                >Copyright 2001-2021 Syncfusion Inc. <br />All Rights
-                Reserved</a
-              >
-            </div>
-
-            <div class="link">
-              <a href="">Privacy Policy </a>
-              |
-              <a href="">Cookie Policy </a>
-              |
-              <a href="">Terms of Use </a>
-            </div>
-          </div>
-
-          <div class="col-sm-2">
-            <div class="head-1">Quick Links</div>
-            <ul class="listings">
-              <li><a href="">About us</a></li>
-              <li><a href="">Pricing & FAQ</a></li>
-              <li><a href="">Documentation</a></li>
-              <li><a href="">Blog</a></li>
-            </ul>
-          </div>
-
-          <div class="col-sm-3">
-            <div class="head-2">Legal Stuff</div>
-            <ul class="listings">
-              <li><a href="">About Disclaimer</a></li>
-              <li><a href="">Privacy Policy</a></li>
-              <li><a href="">Terms and Service</a></li>
-            </ul>
-          </div>
-
-          <div class="col-sm-2">
-            <div class="head-3">Follow Us</div>
-
-            <div class="social-groups">
-              <a href="" class="fab fa-facebook"></a>
-              <a href="" class="fab fa-twitter"></a>
-              <a href="" class="fab fa-youtube"></a>
-              <a href="" class="fab fa-linkedin"></a>
-            </div>
-          </div>
-        </div>
+          <div class="col-sm-5"><strong><a href="/" aria-current="page" class="active--exact active">
+          <img alt="BoldSign" src="../assets/settyl.svg" width="175"  data-sizes="(max-width: 175px) 100vw, 175px" class="g-image g-image--lazy g-image--loaded" ></a></strong><div class="copyrights"><a href="">Copyright 2001-2021 Syncfusion Inc. <br>All Rights
+              Reserved</a></div><div class="link"><a href="">Privacy Policy </a>
+            |
+            <a href="">Cookie Policy </a>
+            |
+            <a href="">Terms of Use </a></div></div>
+            <div class="col-sm-2"><div class="head-1" style="color: #fff;">Quick Links</div><ul class="listings"><li><a href="">About us</a></li><li><a href="">Pricing &amp; FAQ</a></li><li><a href="">Documentation</a></li><li><a href="">Blog</a></li></ul></div><div class="col-sm-3"><div class="head-2" style="color: #fff;">Legal Stuff</div><ul class="listings"><li><a href="">About Disclaimer</a></li><li><a href="">Privacy Policy</a></li><li><a href="">Terms and Service</a></li></ul></div><div class="col-sm-2"><div class="head-3" style="color: #fff;">Follow Us</div><div class="social-groups"><a href="" class="fab fa-facebook"></a><a href="" class="fab fa-twitter"></a><a href="" class="fab fa-youtube"></a><a href="" class="fab fa-linkedin"></a></div></div></div>
         
       </div>
     </footer>

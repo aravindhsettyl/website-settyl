@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>tms</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2DDC3C" offset="0%"></stop>
+            <stop stop-color="#00AF4A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="-31.37132%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2DDC3C" offset="0%"></stop>
+            <stop stop-color="#00AF4A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#2DDC3C" offset="0%"></stop>
+            <stop stop-color="#00AF4A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.4566215%" id="linearGradient-4">
+            <stop stop-color="#1BCF2B" offset="0%"></stop>
+            <stop stop-color="#00A244" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#1BCF2B" offset="0%"></stop>
+            <stop stop-color="#00A244" offset="98.4566215%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#2DDC3C" offset="0%"></stop>
+            <stop stop-color="#00AF4A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="tms" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-2" cx="45" cy="45" r="45"></circle>
+        <g id="Group-32" transform="translate(12.000000, 11.000000)">
+            <g id="Group-40" transform="translate(23.000000, 15.000000)">
+                <path d="M31.0588235,10.8208313 L34.8948637,10.8208313 C36.1882736,10.8208313 37.4018579,11.4462366 38.1524396,12.4995818 L44,20.7058824 L44,20.7058824 L31.0588235,20.7058824 L31.0588235,10.8208313 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <path d="M31.0588235,20.7058824 L44,20.7058824 L44,31.6470588 C44,32.7516283 43.1045695,33.6470588 42,33.6470588 L33.0588235,33.6470588 C31.954254,33.6470588 31.0588235,32.7516283 31.0588235,31.6470588 L31.0588235,20.7058824 L31.0588235,20.7058824 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="31.0588235" height="33.6470588" rx="4"></rect>
+                <circle id="Oval" fill="url(#linearGradient-4)" cx="10.3529412" cy="33.6470588" r="5.17647059"></circle>
+                <circle id="Oval-Copy-37" fill="url(#linearGradient-5)" cx="31.0588235" cy="33.6470588" r="5.17647059"></circle>
+            </g>
+            <circle id="Oval" fill="url(#linearGradient-6)" opacity="0.136082849" cx="28" cy="28" r="28"></circle>
+        </g>
+    </g>
+</svg>

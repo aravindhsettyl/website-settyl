@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>eld</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF639B" offset="0%"></stop>
+            <stop stop-color="#F03879" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF639B" offset="0%"></stop>
+            <stop stop-color="#F03879" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFBFD6" offset="0%"></stop>
+            <stop stop-color="#FF8CB5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="eld" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-3" cx="45" cy="45" r="45"></circle>
+        <g id="Group-33" transform="translate(17.000000, 11.000000)">
+            <circle id="Oval-Copy-9" fill="url(#linearGradient-1)" opacity="0.136082849" cx="28" cy="28" r="28"></circle>
+            <g id="Group-20" transform="translate(19.000000, 12.000000)">
+                <path d="M16.2278619,41.9736682 C9.49786754,36.3930249 4.84449139,31.2944256 2.26773348,26.6778702 C-1.95240802,19.1170058 -0.148319953,9.64945721 6.56329677,4.13548166 C13.2749135,-1.37849389 22.9947353,-1.37849389 29.7063521,4.13548166 C36.4179688,9.64945721 38.2220568,19.1170058 34.0019153,26.6778702 C31.4251571,31.2944263 26.77178,36.3930264 20.0417841,41.9736705 L20.0417822,41.9736682 C18.935855,42.8907247 17.3337891,42.8907247 16.2278619,41.9736682 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <circle id="Oval" fill="url(#linearGradient-3)" cx="18.1348244" cy="18.1348244" r="10.8808946"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
