@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>temperature</title>
+    <desc>Created with Sketch.</desc>
+    <g id="temperature" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-56">
+            <circle id="Oval-Copy-106" fill="#E8D8FF" cx="45" cy="45" r="45"></circle>
+            <g id="Group-18" transform="translate(29.000000, 28.000000)" stroke="#8631FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+                <path d="M3.88959207,20.4166667 C0.840951953,22.1767999 -0.64538745,25.7651406 0.265724535,29.1654568 C1.17683652,32.565773 4.25821457,34.9301976 7.77848096,34.9301976 C11.2987474,34.9301976 14.3801254,32.565773 15.2912374,29.1654568 C16.2023494,25.7651406 14.71601,22.1767999 11.6673699,20.4166667 L11.6673699,3.88888889 C11.6673699,1.74111486 9.92625499,4.89843856e-14 7.77848096,4.89843856e-14 C5.63070693,4.89843856e-14 3.88959207,1.74111486 3.88959207,3.88888889 L3.88959207,20.4166667" id="Path"></path>
+                <line x1="3.88959207" y1="11.6666667" x2="11.6673699" y2="11.6666667" id="Path"></line>
+                <line x1="19.4451476" y1="11.6666667" x2="31.1118143" y2="11.6666667" id="Path"></line>
+                <line x1="25.278481" y1="5.83333333" x2="25.278481" y2="17.5" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

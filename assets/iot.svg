@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>iot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFA55F" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="iot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-12" cx="45" cy="45" r="45"></circle>
+        <g id="Group-37" transform="translate(8.000000, 6.000000)">
+            <g id="Group-19" transform="translate(17.000000, 17.000000)" stroke="#FFFFFF">
+                <path d="M13.2290642,19.6231669 L12.6435614,22.5654766 L22.5786789,24.542508 L23.1641817,21.6001982 L13.2290642,19.6231669 Z" id="Path-2" fill="url(#linearGradient-1)"></path>
+                <path d="M33.0727861,32.6003623 L30.1121251,33.0846001 L31.8887438,43.9469606 L34.8494049,43.4627228 L33.0727861,32.6003623 Z" id="Path-3" fill="url(#linearGradient-2)"></path>
+                <path d="M40.8933562,10.9814978 L37.8942528,11.0548386 L38.2086549,23.911575 L41.2077583,23.8382341 L40.8933562,10.9814978 Z" id="Path-4" fill="url(#linearGradient-3)" transform="translate(39.551006, 17.446536) rotate(47.000000) translate(-39.551006, -17.446536) "></path>
+                <ellipse id="Oval" fill="url(#linearGradient-4)" transform="translate(31.112171, 25.514109) rotate(47.000000) translate(-31.112171, -25.514109) " cx="31.1121705" cy="25.5141092" rx="9.875" ry="9.80606618"></ellipse>
+                <ellipse id="Oval-Copy-19" fill="url(#linearGradient-5)" transform="translate(34.824939, 47.689287) rotate(47.000000) translate(-34.824939, -47.689287) " cx="34.8249385" cy="47.6892869" rx="6.75" ry="6.70404412"></ellipse>
+                <ellipse id="Oval-Copy-20" fill="url(#linearGradient-5)" transform="translate(9.250000, 20.263523) rotate(47.000000) translate(-9.250000, -20.263523) " cx="9.25" cy="20.2635231" rx="6.75" ry="6.70404412"></ellipse>
+                <ellipse id="Oval-Copy-21" fill="url(#linearGradient-5)" transform="translate(48.129712, 9.204044) rotate(47.000000) translate(-48.129712, -9.204044) " cx="48.1297116" cy="9.20404412" rx="6.75" ry="6.70404412"></ellipse>
+            </g>
+            <circle id="Oval-Copy-25" fill="url(#linearGradient-6)" opacity="0.136082849" cx="28" cy="28" r="28"></circle>
+        </g>
+    </g>
+</svg>

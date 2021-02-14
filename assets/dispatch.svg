@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>dispatch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#27ABFF" offset="0%"></stop>
+            <stop stop-color="#2987FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#27ABFF" offset="0%"></stop>
+            <stop stop-color="#2987FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#27ABFF" offset="0%"></stop>
+            <stop stop-color="#2987FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="31.0588235" height="33.6470588" rx="4"></rect>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#76BBFF" offset="0%"></stop>
+            <stop stop-color="#2990FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#76BBFF" offset="0%"></stop>
+            <stop stop-color="#2990FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#76BBFF" offset="0%"></stop>
+            <stop stop-color="#2990FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="dispatch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-6" cx="45" cy="45" r="45"></circle>
+        <g id="Group-36" transform="translate(13.000000, 11.000000)">
+            <g id="Group-40-Copy-2" transform="translate(20.000000, 15.000000)">
+                <path d="M31.0588235,10.8208313 L35.9255384,10.8208313 C36.5722433,10.8208313 37.1790355,11.133534 37.5543263,11.6602065 L44,20.7058824 L44,20.7058824 L31.0588235,20.7058824 L31.0588235,10.8208313 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <path d="M31.0588235,20.7058824 L44,20.7058824 L44,32.6470588 C44,33.1993436 43.5522847,33.6470588 43,33.6470588 L32.0588235,33.6470588 C31.5065388,33.6470588 31.0588235,33.1993436 31.0588235,32.6470588 L31.0588235,20.7058824 L31.0588235,20.7058824 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                <g id="Rectangle-+-Rectangle-Copy-5-+-Rectangle-Copy-8-Mask">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    <rect id="Rectangle" fill="url(#linearGradient-6)" mask="url(#mask-5)" x="-6.41666667" y="5.5" width="27.5" height="4.125" rx="2.0625"></rect>
+                    <rect id="Rectangle-Copy-5" fill="url(#linearGradient-7)" mask="url(#mask-5)" x="-3.66666667" y="12.8333333" width="19.25" height="4.125" rx="2.0625"></rect>
+                    <rect id="Rectangle-Copy-8" fill="url(#linearGradient-8)" mask="url(#mask-5)" x="-8.25" y="20.2849505" width="18.3333333" height="4.125" rx="2.0625"></rect>
+                </g>
+                <circle id="Oval" fill="url(#linearGradient-2)" cx="10.3529412" cy="33.6470588" r="5.17647059"></circle>
+                <circle id="Oval-Copy-37" fill="url(#linearGradient-2)" cx="31.0588235" cy="33.6470588" r="5.17647059"></circle>
+            </g>
+            <circle id="Oval-Copy-14" fill="url(#linearGradient-2)" opacity="0.136082849" cx="28" cy="28" r="28"></circle>
+        </g>
+    </g>
+</svg>
