@@ -12,7 +12,7 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
          <b-nav-item-dropdown id="products-settyl" text="Products" right>
-          <b-dropdown-item href="#"><span class="getting" style="
+          <b-dropdown-item href="/multi-modal-visibility"><span class="getting" style="
     display: flex;
     height: 56px;
     align-items: center;
