@@ -3,16 +3,23 @@
     <section id="features" class="homepage-section-inter-5" style="padding: 160px 0px 80px 0px">
       <div class="container">
         <div class="row track-block">
-          <div class="col-sm-6 custom-track-column-1">
+          <div class="col-sm-6 custom-track-column-1" style="padding-right: 0px;">
+               <span style="    font-family: CarosMedium;
+    font-size: 16px;
+    color: #FF7A1A;
+    letter-spacing: 0px;
+    padding: 9px 16px;
+    background: #FFF5ED;
+    border-radius: 20px;">Dynamic fulfillment</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
-    letter-spacing: 0px;
+    letter-spacing: -1px;
     line-height: 62px;
-    margin-top: 40px;
+    margin-top: 16px;
     font-weight: 600;">
               OTIF - <span style="    color: rgb(62, 60, 218);
     background: rgb(62 60 218 / 10%);
-    padding: 0px 7px;">unified platform</span><br><span style="    font-size: 44px;
+    padding: 0px 7px;">Customer Experience</span><br><span style="    font-size: 44px;
     color: #0A132E;
     letter-spacing: 0;
     line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span>

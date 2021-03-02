@@ -4,11 +4,18 @@
       <div class="container">
         <div class="row track-block">
           <div class="col-sm-6 custom-track-column-1">
+              <span style="    font-family: CarosMedium;
+    font-size: 16px;
+    color: #FF3030;
+    letter-spacing: 0px;
+    padding: 9px 16px;
+    background: #FFEFEF;
+    border-radius: 20px;">Configurable - Flexible - Scalable</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
     letter-spacing: 0px;
     line-height: 62px;
-    margin-top: 40px;
+    margin-top: 16px;
     font-weight: 600;">
               Global Multimodal Visibility.<br>
 Embrace <span style="    color: rgb(62, 60, 218);
@@ -30,7 +37,7 @@ Embrace <span style="    color: rgb(62, 60, 218);
                     <h2 class="bold h1" style="
 font-size: 34px;
 color: #222B45;
-letter-spacing: 0;
+letter-spacing: -1px;
 text-align: center;padding-bottom: 56px;">How do we do ? All Modes.</h2>
 
                             
@@ -114,12 +121,12 @@ text-align: center;padding: 20px 20px 10px 20px;">Multimodal Visibility</h2>
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Real Time Transportation Visibility</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Right Information at Right Time Track your shipments across the modes and get a holistic picture of your in-transit shipments.
                         </h6>
                         
                     </div>
@@ -144,12 +151,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Temperature Tracking</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Continuously monitor cold storage levels of your shipment and get real-time insights of your temperature data with our advanced temperature tracking
                         </h6>
                         
                     </div>
@@ -173,12 +180,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Driver app</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Driver's preference based Lane allocations Enabling contactless proof of delivery and manage dynamic shipments using one App
                         </h6>
                         
                     </div>
@@ -202,12 +209,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Pin Board</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Use Settyl's cloud platform to store proof of loads for proactive decisions Deploy your custom triggers-workflows and gain insights
                         </h6>
                         
                     </div>
@@ -231,12 +238,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Claims Resolution Center</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Manage your customer claims and disputes in a efficient way through our digital system.
                         </h6>
                         
                     </div>
@@ -260,12 +267,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Self Service Onboarding</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Settyl's In-house Intelligent Connector enables synchronized integration with telematics devices., IoT, Sensors, HRMS, ERP, TMS
                         </h6>
                         
                     </div>
@@ -273,10 +280,6 @@ line-height: 26px;">
                 <div class="col-12 col-lg-6" style="text-align: center;">
                     <img width="520" height="auto" src="../assets/dash.png" class="attachment-full size-full" alt="" loading="lazy">
                 </div>
-            
-                    
-                    
-                
             </div>
         </div>
     </section>
