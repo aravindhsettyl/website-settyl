@@ -3,12 +3,19 @@
     <section id="features" class="homepage-section-inter-5" style="padding: 160px 0px 80px 0px">
       <div class="container">
         <div class="row track-block">
-          <div class="col-sm-6 custom-track-column-1">
+          <div class="col-sm-6 custom-track-column-1" style="    padding-right: 0px;">
+               <span style="    font-family: CarosMedium;
+    font-size: 16px;
+    color: #1d9a96;
+    letter-spacing: 0px;
+    padding: 9px 16px;
+    background: #EBFCFB;
+    border-radius: 20px;">Prescriptive intelligence</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
-    letter-spacing: 0px;
+    letter-spacing: -1px;
     line-height: 62px;
-    margin-top: 40px;
+    margin-top: 16px;
     font-weight: 600;">
               Actionable <span style="    color: rgb(62, 60, 218);
     background: rgb(62 60 218 / 10%);
@@ -39,9 +46,9 @@
 font-size: 34px;
 color: #333;
 letter-spacing: 0;
-text-align: center;padding: 20px 20px 10px 20px;">Multimodal Visibility</h2>
+text-align: center;padding: 20px 20px 10px 20px;">Risk Intelligence Control Tower</h2>
 <p class="" style="color: #333;max-width: 826px;margin: auto">
-                               Leverage real time visibility on your purchase orders, product line items or SKUs using our advanced unified multimodal platform, and get right information at right time to make proactive decisions
+                               Connecting billions of real-time and historical data’s on every loads across lanes with machine learning capabilities to bring forth actionable insights, and to make proactive decisions in your value chain
                             </p>
                             
                 </div>
@@ -52,12 +59,12 @@ text-align: center;padding: 20px 20px 10px 20px;">Multimodal Visibility</h2>
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Supply Chain Risk Management</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Configure – Region/Country/Lane wise risk profile to gain predictive actionable intelligence through multiple channel from our control tower
                         </h6>
                         
                     </div>
@@ -82,12 +89,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Threat Analytics</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Leveraging historical analysis of socio-economic, natural disasters, Cargo theft, and other events/incidents across your niche market to provide prescriptive analytics
                         </h6>
                         
                     </div>
@@ -111,12 +118,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Supplier/LSPs Risk Analytics</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Unearthing your supply chain network to evaluate performance and discovering KYC metrics to augment & disseminate stability of your customers for a proactive business continuity plan
                         </h6>
                         
                     </div>
@@ -140,12 +147,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Mitigation Action Planner</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Enable Risk Aware culture in your organization with proactive custom workflow actions on risk profile
                         </h6>
                         
                     </div>
@@ -160,64 +167,8 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fff;padding-bottom: 80px;    padding-top: 80px;">
-        <div class="container">
-       
-            <div class="row">
-                <div class="col-12 col-lg-6 align-self-center">
-                    <div class="two-column-title-hold text-center text-lg-left">
-                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
-    color: #262E48;
-    letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
-                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
-color: #3A435E;
-letter-spacing: 0;
-line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
-                        </h6>
-                        
-                    </div>
-                </div>  
-                <div class="col-12 col-lg-6" style="text-align: center;">
-                    <img width="520" height="auto" src="../assets/gris.png" class="attachment-full size-full" alt="" loading="lazy">
-                </div>
-            
-                    
-                    
-                
-            </div>
-        </div>
-    </section>
-     <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #FFFAF6;padding-bottom: 80px;    padding-top: 80px;">
-        <div class="container">
-       
-            <div class="row">
-                <div class="col-12 col-lg-6 align-self-center">
-                    <div class="two-column-title-hold text-center text-lg-left">
-                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
-    color: #262E48;
-    letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
-                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
-color: #3A435E;
-letter-spacing: 0;
-line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
-                        </h6>
-                        
-                    </div>
-                </div>  
-                <div class="col-12 col-lg-6" style="text-align: center;">
-                    <img width="520" height="auto" src="../assets/dash.png" class="attachment-full size-full" alt="" loading="lazy">
-                </div>
-            
-                    
-                    
-                
-            </div>
-        </div>
-    </section>
+    
+     
 </section>
 
 </template>

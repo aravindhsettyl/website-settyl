@@ -131,21 +131,14 @@
         <b-nav-item href="/about">Platforms</b-nav-item>
         <b-nav-item href="/about">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
-          <b-dropdown-item href="#">Getting Started</b-dropdown-item>
-          <b-dropdown-item href="#">Documentation</b-dropdown-item>
-          <b-dropdown-item href="#">Features and Bugs</b-dropdown-item>
-          <b-dropdown-item href="#">Release History</b-dropdown-item>
-          <b-dropdown-item href="#">Video</b-dropdown-item>
           <b-dropdown-item href="#">Blog</b-dropdown-item>
-          <b-dropdown-item href="#">Resource Library</b-dropdown-item>
-          <b-dropdown-item href="#">Other Products</b-dropdown-item>
+          <b-dropdown-item href="#">Infographics</b-dropdown-item>
+          <b-dropdown-item href="#">Case Studies</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Company" right>
-          <b-dropdown-item href="#">About</b-dropdown-item>
-          <b-dropdown-item href="#">Customers</b-dropdown-item>
-          <b-dropdown-item href="#">Press Releases</b-dropdown-item>
-          <b-dropdown-item href="/contact">Contact US</b-dropdown-item>
+          <b-dropdown-item href="#">About Us</b-dropdown-item>
+          <b-dropdown-item href="/contact">Contact Us</b-dropdown-item>
         </b-nav-item-dropdown>
       </b-navbar-nav>
 
