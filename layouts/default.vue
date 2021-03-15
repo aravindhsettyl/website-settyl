@@ -12,12 +12,7 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
          <b-nav-item-dropdown id="products-settyl" text="Products" right>
-          <b-dropdown-item href="/multi-modal-visibility"><span class="getting" style="
-    display: flex;
-    height: 56px;
-    align-items: center;
-    vertical-align: middle;
-"><span style="
+          <b-dropdown-item href="/multi-modal-visibility"><span class="getting"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
@@ -128,10 +123,10 @@
 </svg></span><span>Operational Planning</span></b-dropdown-item>
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
-        <b-nav-item href="/about">Platforms</b-nav-item>
+        <b-nav-item href="/platforms">Platforms</b-nav-item>
         <b-nav-item href="/about">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
-          <b-dropdown-item href="#">Blog</b-dropdown-item>
+          <b-dropdown-item href="/blog">Blog</b-dropdown-item>
           <b-dropdown-item href="#">Infographics</b-dropdown-item>
           <b-dropdown-item href="#">Case Studies</b-dropdown-item>
         </b-nav-item-dropdown>
@@ -161,40 +156,59 @@
     margin-bottom: 0px;    background: #0E0E64;">
       <div class="container">
         <div class="row">
-          <div class="col-sm-5"><strong><a href="/" aria-current="page" class="active--exact active">
-          <img alt="BoldSign" src="../assets/settyl.svg" width="175"  data-sizes="(max-width: 175px) 100vw, 175px" class="g-image g-image--lazy g-image--loaded" ></a></strong><div class="copyrights"><a href="">Copyright 2001-2021 Syncfusion Inc. <br>All Rights
-              Reserved</a></div><div class="link"><a href="">Privacy Policy </a>
+          <div class="col-sm-4"><strong><a href="/" aria-current="page" class="active--exact active">
+          <img alt="BoldSign" src="../assets/settyl.svg" width="175"  data-sizes="(max-width: 175px) 100vw, 175px" class="g-image g-image--lazy g-image--loaded" ></a></strong>
+          <div class="copyrights"><a href="" style="color: #A2A2E3 !important;">Ph: +1 6478198103</a><br/>
+          <a href="" style="color: #A2A2E3 !important;">contact@settyl.com</a>
+          </div>
+          <div class="social-groups">
+              <a href="" class="fab fa-facebook-icon"></a>
+              <a href="" class="fab fa-twitter-icon"></a>
+              <a href="" class="fab fa-youtube-icon"></a>
+              <a href="" class="fab fa-linkedin-icon"></a>
+            </div>
+
+          <!-- <div class="link"><a href="">Privacy Policy </a>
             |
             <a href="">Cookie Policy </a>
             |
-            <a href="">Terms of Use </a></div></div>
-            <div class="col-sm-2"><div class="head-1" style="color: #fff;">Quick Links</div><ul class="listings"><li><a href="">About us</a></li><li><a href="">Pricing &amp; FAQ</a></li><li><a href="">Documentation</a></li><li><a href="">Blog</a></li></ul></div><div class="col-sm-3"><div class="head-2" style="color: #fff;">Legal Stuff</div><ul class="listings"><li><a href="">About Disclaimer</a></li><li><a href="">Privacy Policy</a></li><li><a href="">Terms and Service</a></li></ul></div><div class="col-sm-2"><div class="head-3" style="color: #fff;">Follow Us</div><div class="social-groups"><a href="" class="fab fa-facebook"></a><a href="" class="fab fa-twitter"></a><a href="" class="fab fa-youtube"></a><a href="" class="fab fa-linkedin"></a></div></div></div>
-        
+            <a href="">Terms of Use </a></div> -->
+            </div>
+            <div class="col-sm-3"><div class="head-1" style="color: #fff;">Company</div>
+            <ul class="listings">
+              <li><a href="">About us</a></li>
+              <li><a href="">Become a partner</a></li>
+              <li><a href="">Join our Affiliate Program</a></li>
+              <li><a href="">Sales</a></li>
+              <li><a href="">Support</a></li>
+              <li><a href="">Press Release</a></li>
+            </ul>
+            </div>
+            <div class="col-sm-3"><div class="head-2" style="color: #fff;">Legal Stuff</div>
+            <ul class="listings">
+              <li><a href="">Real Time Tracking</a></li>
+              <li><a href="">Smart Route Forecast</a></li>
+              <li><a href="">Supply Chain Risks</a></li>
+              <li><a href="">Delivery Orchestration</a></li>
+              <li><a href="">Purchase Order Visibility</a></li>
+              <li><a href="">Paperless Docs</a></li>
+              <li><a href="">Autonomous Dispatch</a></li>
+            </ul>
+            </div>
+            <div class="col-sm-2"><div class="head-3" style="color: #fff;">Case studies</div>
+            <ul class="listings">
+              <li><a href="">Shippers</a></li>
+              <li><a href="">Carriers/3PLs</a></li>
+            </ul>
+            </div>
+        </div>
       </div>
     </footer>
 
   </div>
 </template>
-
 <style>
-html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
+
 @font-face {
   font-family: Caros;
 
@@ -284,353 +298,6 @@ body {
   box-sizing: border-box;
   margin: 0;
 }
-
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-}
-
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
-
-.layout {
-  max-width: 1024px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.form-control:focus {
-  border-color: #ced4da !important;
-  box-shadow: none !important;
-}
-
-.btn-primary:focus {
-  box-shadow: none !important;
-}
-
-.footer {
-  margin-top: 100px;
-  margin-bottom: 70px;
-}
-
-.head-1,
-.head-2,
-.head-3 {
-  font-weight: 500;
-  font-size: 18px;
-  color: #141d30;
-  margin-bottom: 12px;
-}
-
-/* .head-3 {
-  margin-bottom: 22px;
-} */
-
-.listings {
-  list-style-type: none;
-  font-size: 16px;
-  line-height: 2.5;
-  padding: 0;
-}
-
-.listings li a:hover {
-  color: #fe4901 !important;
-  text-decoration: none;
-}
-
-.listings li a {
-  color: #68758e !important;
-}
-
-.custom-input {
-  height: 48px !important;
-  font-size: 16px !important;
-  line-height: 26px !important;
-  border-radius: 6px 0 0 6px !important;
-}
-
-.join-button {
-  padding: 0 32px !important;
-  background: #fe4901 !important;
-  border-color: #fe4901 !important;
-}
-
-.x-ruler {
-  margin: 30px 0;
-  color: #eeeeee;
-}
-
-.join-button:hover,
-.custom-card-button:hover,
-.card-button:hover,
-.custom-trial:hover {
-  background: #fe5b1a !important;
-}
-
-.join-button:active,
-.custom-card-button:active,
-.card-button:active,
-.join-button:focus,
-.custom-card-button:focus,
-.card-button:focus {
-  background: #fe9166 !important;
-}
-
-.social-groups {
-  text-align: left;
-}
-
-.social-groups a {
-  padding-right: 20px;
-  font-size: 20px;
-  color: #666e80;
-}
-
-.social-groups a:hover {
-  text-decoration: none;
-}
-
-.copyrights {
-  margin: 22px 0 12px 0;
-}
-
-.copyrights a {
-  font-size: 14px;
-  line-height: 24px;
-  color: #68758e;
-}
-
-.copyrights a:hover {
-  color: #fe4901;
-  text-decoration: none;
-}
-
-/* .copyrights-content {
-  font-size: 15px;
-} */
-
-.custom-trial {
-  background-color: #00A9FA !important;
-  border: none !important;
-  color: rgb(255, 255, 255) !important;
-  height: 42px;
-  border-radius: 4px !important;
-  padding: 0 20px !important;
-  font-size: 16px !important;
-  white-space: nowrap;
-}
-
-.custom-trial:focus {
-  box-shadow: none !important;
-}
-
-.link a {
-  font-size: 14px;
-  line-height: 24px;
-  color: #68758e;
-}
-
-.link a:hover {
-  color: #fe4901;
-  text-decoration: none;
-}
-
-.link {
-  font-size: 14px;
-  line-height: 24px;
-  color: #68758e;
-}
-
-.custom-fluid {
-  position: fixed;
-  height: 86px;
-  z-index: 3;
-  background: #fff;
-  background-color: rgba(255, 255, 255, 0.65);
-  backdrop-filter: blur(10px);
-  padding: 0 !important;
-  top: 0;
-}
-
-.custom-fluid .bg-info {
-  background-color: transparent !important;
-  height: 86px;
-}
-
-.fa-facebook:hover {
-  color: #1877f2;
-}
-
-.fa-twitter:hover {
-  color: #1da1f2;
-}
-
-.fa-youtube:hover {
-  color: #ff0000;
-}
-
-.fa-linkedin:hover {
-  color: #2867b2;
-}
-
-.subscribe-mail {
-  padding-top: 344px;
-  
-  background-size: cover;
-  background-position: center top;
-  background-repeat: no-repeat;
-  position: relative;
-}
-
-.head-4 {
-  color: #ffffff;
-  font-size: 48px;
-  font-weight: 700;
-  line-height: 56px;
-  padding-bottom: 40px;
-}
-
-.custom-subscription {
-  margin-top: -260px;
-}
-
-.navbar-nav .nav-item .nav-link {
-  color: #fff !important;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 29px;
-  padding-top: 7px;
-  padding-bottom: 7px;
-}
-
-.navbar-nav .nav-item .nav-link:hover {
-  color: #fe4901 !important;
-}
-
-.navbar-nav {
-  margin-left: 100px;
-}
-
-@media (min-width: 992px) {
-.navbar-expand-lg #nav-collapse .navbar-nav .nav-link {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
-}
-}
-
-.navbar-light .navbar-nav.ml-auto .nav-link {
-  color: #fff !important;
-  line-height: 29px;
-  padding-top: 7px;
-  padding-bottom: 7px;
-}
-
-.dropdown-toggle::after {
-  margin-left: 6px !important;
-  vertical-align: 3px !important;
-  content: "";
-  border: solid #fff !important;
-  border-width: 0 1px 1px 0 !important;
-  padding: 3px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-}
-
-.nav-link.dropdown-toggle:hover::after {
-  border: solid #fe4901 !important;
-  margin-left: 6px !important;
-  vertical-align: 3px !important;
-  content: "";
-  border-width: 0 1px 1px 0 !important;
-  padding: 3px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-}
-
-ul.dropdown-menu li {
-  height: 44px;
-  line-height: 36px;
-}
-
-.foot-input-group {
-  max-width: 420px;
-}
-
-.custom-form-control,
-.custom-form-control:focus {
-  height: 56px !important;
-  border-radius: 8px !important;
-  max-width: 420px;
-  border: 1px solid #fae3da;
-  box-shadow: -2px 6px 16px 0 rgba(164, 148, 244, 0.25) !important;
-  background: #ffffff;
-  z-index: 0 !important;
-  padding: 8px 8px 8px 16px !important;
-}
-
-.custom-secondary {
-  height: 40px;
-  margin-top: 8px;
-  background: #00A9FA !important;
-  border: none !important;
-  color: rgb(255, 255, 255) !important;
-  position: absolute;
-  right: 10px;
-  width: 160px;
-  padding: 0 32px !important;
-  z-index: 2 !important;
-}
-
-.custom-secondary:hover,
-.custom-secondary:active {
-  background: #fe5b1a !important;
-}
-
-.custom-secondary:focus {
-  box-shadow: none !important;
-}
-
-
-#products-settyl ul.dropdown-menu.dropdown-menu-right.show {
-    width: 860px;
-        box-shadow: rgb(50 50 93 / 25%) 0px 50px 100px -20px, rgb(0 0 0 / 30%) 0px 30px 60px -30px;
-}
-#products-settyl ul.dropdown-menu li{
-  display: inline-block;
-  width: 49%;
-}
-#products-settyl .dropdown-menu-right {
-    left: calc(100% - 420px);
-    right: auto;
-}
-.getting::before{
-padding: 20px;
-}
-</style>
-
-<style>
 .dropdown-menu.show {
     display: block;
     border-radius: 5px !important;
@@ -701,12 +368,12 @@ body {
 }
 
 .listings li a:hover {
-  color: #fe4901 !important;
+  color: #fff !important;
   text-decoration: none;
 }
 
 .listings li a {
-  color: #68758e !important;
+  color: #A2A2E3 !important;
 }
 
 .custom-input {
@@ -755,10 +422,10 @@ body {
   color: #666e80;
 }
 
-/* .social-groups .fab {
-  background-image: url(../assets/images/social-icons.png);
+.social-groups .fab {
+  background-image: url(../assets/social-icon.png);
   background-size: 50px;
-} */
+}
 
 .fa-facebook-icon {
   background-position: -4px -3px;
@@ -801,7 +468,7 @@ body {
 }
 
 .custom-trial {
-  background-color: #00A9FA !important;
+  background-color: rgb(254, 73, 1) !important;
   border: none !important;
   color: rgb(255, 255, 255) !important;
   height: 42px;
@@ -869,14 +536,14 @@ body {
   color: #2867b2;
 }
 
-/* .subscribe-mail {
+.subscribe-mail {
   padding: 48px 56px;
-  background-image: url(../assets/images/footer-bg.jpg);
+  /* background-image: url(../assets/images/footer-bg.jpg); */
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
   position: relative;
-} */
+}
 
 .head-4 {
   color: #ffffff;
@@ -896,7 +563,7 @@ body {
 }
 
 .navbar-nav .nav-item .nav-link:hover {
-  color: #fe4901 !important;
+  color: #fff !important;
 }
 
 .navbar-nav {
@@ -956,7 +623,7 @@ body {
 }
 
 .nav-link.dropdown-toggle:hover::after {
-  border: solid #fe4901 !important;
+  border: solid #fff !important;
   margin-left: 6px !important;
   vertical-align: 3px !important;
   content: "";
@@ -986,7 +653,7 @@ ul.dropdown-menu li {
 .custom-secondary {
   height: 40px;
   margin-top: 8px;
-  background: #00A9FA !important;
+  background: rgb(254, 73, 1) !important;
   border: none !important;
   color: rgb(255, 255, 255) !important;
   position: absolute;
@@ -995,6 +662,7 @@ ul.dropdown-menu li {
   padding: 0 26px !important;
   z-index: 2 !important;
 }
+
 .dropdown-item.active, .dropdown-item:active {
    color: #333 !important;
     text-decoration: none !important;
@@ -1226,4 +894,3 @@ ul.dropdown-menu li {
 }
 }
 </style>
-
