@@ -123,10 +123,10 @@
 </svg></span><span>Operational Planning</span></b-dropdown-item>
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
-        <b-nav-item href="/about">Platforms</b-nav-item>
+        <b-nav-item href="/platforms">Platforms</b-nav-item>
         <b-nav-item href="/about">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
-          <b-dropdown-item href="#">Blog</b-dropdown-item>
+          <b-dropdown-item href="/blog">Blog</b-dropdown-item>
           <b-dropdown-item href="#">Infographics</b-dropdown-item>
           <b-dropdown-item href="#">Case Studies</b-dropdown-item>
         </b-nav-item-dropdown>
@@ -563,7 +563,7 @@ body {
 }
 
 .navbar-nav .nav-item .nav-link:hover {
-  color: #fe4901 !important;
+  color: #fff !important;
 }
 
 .navbar-nav {
@@ -623,7 +623,7 @@ body {
 }
 
 .nav-link.dropdown-toggle:hover::after {
-  border: solid #fe4901 !important;
+  border: solid #fff !important;
   margin-left: 6px !important;
   vertical-align: 3px !important;
   content: "";
