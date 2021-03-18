@@ -10,19 +10,13 @@
       </div>
     </section>
 
-    <g-image
-      alt="BoldSign"
-      src="~/assets/images/tri-purple.png"
-      style="width: 100%"
-      class="mbl-display-n"
-    />
 
     <section style="background: #fff">
       <div class="container contact-info">
         <div class="row">
           <div class="col-sm-12 col-lg-6">
             <div class="call-sales">
-              <img src="https://www.boldbi.com/wp-content/uploads/2019/08/sales-enquiry.png" alt="Call Sales" width="66" height="64">
+              <img src="../assets/phone.svg" alt="Call Sales" width="66" height="64">
               <div class="support-block">
                 <div class="sales-head">
                   Call Sales
@@ -38,7 +32,7 @@
             </div>
 
             <div class="support-enquiry">
-              <img src="https://www.boldbi.com/wp-content/uploads/2019/08/suupport-enquiry.png" alt="Support Enquiry" width="66" height="64">
+              <img src="../assets/address.svg" alt="Support Enquiry" width="66" height="64">
               <div class="support-block">
                 <div class="support-head">
                   Support Queries
