@@ -124,7 +124,7 @@
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
         <b-nav-item href="/platforms">Platforms</b-nav-item>
-        <b-nav-item href="/about">Industries</b-nav-item>
+        <b-nav-item href="/industries">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
           <b-dropdown-item href="/blog">Blog</b-dropdown-item>
           <b-dropdown-item href="#">Infographics</b-dropdown-item>
@@ -132,7 +132,7 @@
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Company" right>
-          <b-dropdown-item href="#">About Us</b-dropdown-item>
+          <b-dropdown-item href="/about">About Us</b-dropdown-item>
           <b-dropdown-item href="/contact">Contact Us</b-dropdown-item>
         </b-nav-item-dropdown>
       </b-navbar-nav>
@@ -140,8 +140,8 @@
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
           <!-- <b-nav-item href="#">Login</b-nav-item> -->
-          <b-button size="sm" class="my-2 my-sm-0 custom-trial">Login</b-button>
-
+          <b-button size="sm" class="my-2 my-sm-0 custom-trial" style="background: transparent !important; color: #56c8ff !important">Login</b-button>
+<b-button v-b-modal.modal-1 class="custom-trial">Get a demo</b-button>
         
       </b-navbar-nav>
     </b-collapse>
@@ -204,7 +204,9 @@
         </div>
       </div>
     </footer>
-
+ <b-modal id="modal-1" title="BootstrapVue">
+    <p class="my-4">Hello from modal!</p>
+  </b-modal>
   </div>
 </template>
 <style>
@@ -398,7 +400,7 @@ body {
 .custom-card-button:hover,
 .card-button:hover,
 .custom-trial:hover {
-  background: #fe5b1a !important;
+  background: #028ed2 !important;
 }
 
 .join-button:active,
@@ -407,7 +409,7 @@ body {
 .join-button:focus,
 .custom-card-button:focus,
 .card-button:focus {
-  background: #fe9166 !important;
+  background: #028ed2 !important;
 }
 
 .social-groups {
@@ -468,7 +470,7 @@ body {
 }
 
 .custom-trial {
-  background-color: rgb(254, 73, 1) !important;
+      background: #00A9FA;
   border: none !important;
   color: rgb(255, 255, 255) !important;
   height: 42px;
@@ -567,7 +569,7 @@ body {
 }
 
 .navbar-nav {
-  margin-left: 100px;
+  margin-left: 50px;
 }
 .navbar-collapse.collapse.show {
     height: calc(100vh - 92px);

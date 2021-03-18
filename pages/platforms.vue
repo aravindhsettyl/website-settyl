@@ -40,7 +40,7 @@
 font-size: 34px;
 color: #333;
 letter-spacing: 0;
-text-align: center;padding: 20px 20px 10px 20px;">Core Platform Capabilities</h2>
+text-align: center;padding: 20px 20px 10px 20px;font-weight: 700">Core Platform Capabilities</h2>
 <p class="" style="color: #333;max-width: 640px;margin: auto">
                                Our framework is designed to have the flexibility to integrate and interoperate across any software platform.
                             </p>
@@ -49,28 +49,114 @@ text-align: center;padding: 20px 20px 10px 20px;">Core Platform Capabilities</h2
         </div>
             <div class="row" style="    padding: 60px 0px;">
                 <div class="col-6 col-lg-6 align-self-center">
-                    <div class="two-column-title-hold text-center text-lg-left">
-                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
-    color: #262E48;
-    letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
-                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
+                    <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
+border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
+                      <img width="300" height="auto" src="../assets/lm-banner1.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+    padding-top: 32px;">
+                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+font-size: 24px;
+color: #171E35;
+letter-spacing: 0;margin-top: 32px">Predictive Analytics</h2>
+                        <h6 class="primaryfont charcoal400" style="font-family: Caros;
+font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
-line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+line-height: 24px;font-weight: 400;max-width: 85%">
+                            Improvise operational and delivery performance of your multimodal shipments with our efficient Route Forecast, Risk Analytics and Smart ETA's
                         </h6>
                         
                     </div>
                 </div>  
                 <div class="col-6 col-lg-6" style="text-align: center;">
-                    <img width="320" height="auto" src="../assets/lm-banner1.svg" class="attachment-full size-full" alt="" loading="lazy">
+                    <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
+border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
+                      <img width="300" height="auto" src="../assets/platform2.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+    padding-top: 32px;">
+                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+font-size: 24px;
+color: #171E35;
+letter-spacing: 0;margin-top: 32px">Multi Tenancy in Supply chain</h2>
+                        <h6 class="primaryfont charcoal400" style="font-family: Caros;
+font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 24px;font-weight: 400;max-width: 85%">
+                            Gain proactive Insights on your inbound/outbound shipments by segmenting and streamlining user level visualization
+                        </h6>
+                        
+                    </div>
                 </div>
             
                     
                     
                 
             </div>
+            <div class="row" style="    padding: 0px 0px;">
+                <div class="col-6 col-lg-6 align-self-center">
+                    <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
+border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
+                      <img width="300" height="auto" src="../assets/platform3.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+    padding-top: 32px;">
+                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+font-size: 24px;
+color: #171E35;
+letter-spacing: 0;margin-top: 32px">Multi Context Visibility</h2>
+                        <h6 class="primaryfont charcoal400" style="font-family: Caros;
+font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 24px;font-weight: 400;max-width: 90%">
+                            Personalize your FTL, LTL, Parcel, Ocean and Intermodal data streams to gain Load-SKU's - Purchase order level visibility with our Low code platform
+                        </h6>
+                        
+                    </div>
+                </div>  
+                <div class="col-6 col-lg-6" style="text-align: center;">
+                    <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
+border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
+                      <img width="300" height="auto" src="../assets/platform4.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+    padding-top: 32px;">
+                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+font-size: 24px;
+color: #171E35;
+letter-spacing: 0;margin-top: 32px">Workflow Automation</h2>
+                        <h6 class="primaryfont charcoal400" style="font-family: Caros;
+font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 24px;font-weight: 400;max-width: 85%">
+                            Streamline your communication, Improve Transparency and Productivity by automating specific operational flows
+                        </h6>
+                        
+                    </div>
+                </div>
+            
+                    
+                    
+                
+            </div>
+            <div class="row" style="    padding: 60px 0px;">
+                <div class="col-6 col-lg-6 align-self-center">
+                    <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
+border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
+                      <img width="300" height="auto" src="../assets/platform5.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+    padding-top: 32px;">
+                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+font-size: 24px;
+color: #171E35;
+letter-spacing: 0;margin-top: 32px">Prescriptive Analytics</h2>
+                        <h6 class="primaryfont charcoal400" style="font-family: Caros;
+font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 24px;font-weight: 400;max-width: 85%">
+                            Deploy reliable action planner and intelligence engine to optimize your value chain
+                        </h6>
+                        
+                    </div>
+                </div>  
+            </div>
+            
         </div>
     </section>
     </section>

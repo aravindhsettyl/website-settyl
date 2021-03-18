@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="250px" viewBox="0 0 1440 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Artboard Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.00199298469%" x2="50%" y2="99.9880429%" id="linearGradient-1">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="99.998007%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1440" height="250"></rect>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-12">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#45A4EC" offset="0%"></stop>
+            <stop stop-color="#45A4EC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.18">
+        <g id="pattern-fchat-light">
+            <g id="cover-copy-2" transform="translate(720.000000, 125.000000) rotate(-180.000000) translate(-720.000000, -125.000000) ">
+                <g id="Mask" fill="url(#linearGradient-1)" fill-opacity="0.1" fill-rule="nonzero">
+                    <rect id="path-2" x="0" y="0" width="1440" height="250"></rect>
+                </g>
+                <g id="Group-7-Clipped">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="path-2"></g>
+                    <g id="Group-7" mask="url(#mask-3)">
+                        <g transform="translate(-154.000000, -501.000000)" id="Group">
+                            <g transform="translate(0.000000, 0.748281)">
+                                <g fill-rule="nonzero">
+                                    <rect id="Rectangle-Copy" fill="url(#linearGradient-4)" transform="translate(374.000000, 446.896981) scale(-1, 1) rotate(135.000000) translate(-374.000000, -446.896981) " x="124" y="394.360703" width="500" height="105.072555"></rect>
+                                    <rect id="Rectangle-Copy-3" fill="url(#linearGradient-5)" transform="translate(213.750000, 466.223382) scale(-1, 1) rotate(135.000000) translate(-213.750000, -466.223382) " x="-36.7685964" y="415.269138" width="501.037193" height="101.908488"></rect>
+                                    <rect id="Rectangle-Copy-2" fill="url(#linearGradient-6)" transform="translate(824.328742, 407.260724) scale(-1, 1) rotate(135.000000) translate(-824.328742, -407.260724) " x="328.686288" y="326.978513" width="991.284908" height="160.564422"></rect>
+                                    <rect id="Rectangle-Copy-4" fill="url(#linearGradient-7)" transform="translate(480.439493, 422.358584) scale(-1, 1) rotate(135.000000) translate(-480.439493, -422.358584) " x="167.578274" y="398.658007" width="625.722438" height="47.4011528"></rect>
+                                    <rect id="Rectangle-Copy" fill="url(#linearGradient-8)" transform="translate(1276.410949, 463.417034) rotate(135.000000) translate(-1276.410949, -463.417034) " x="1026.41095" y="429.440223" width="500" height="67.9536226"></rect>
+                                    <rect id="Rectangle-Copy-3" fill="url(#linearGradient-9)" transform="translate(1448.249997, 515.431151) rotate(135.000000) translate(-1448.249997, -515.431151) " x="1109.34305" y="464.476907" width="677.813888" height="101.908488"></rect>
+                                    <rect id="Rectangle-Copy-6" fill="url(#linearGradient-10)" transform="translate(1514.750001, 583.091077) rotate(135.000000) translate(-1514.750001, -583.091077) " x="1345.65008" y="569.484798" width="338.199837" height="27.2125566"></rect>
+                                    <rect id="Rectangle-Copy-5" fill="url(#linearGradient-11)" transform="translate(389.821700, 441.620997) rotate(135.000000) translate(-389.821700, -441.620997) " x="124.656657" y="348.130923" width="530.330086" height="186.980148"></rect>
+                                    <rect id="Rectangle-Copy-5" fill="url(#linearGradient-12)" transform="translate(1394.000000, 405.420973) scale(-1, 1) rotate(135.000000) translate(-1394.000000, -405.420973) " x="998.979465" y="311.930899" width="790.04107" height="186.980148"></rect>
+                                    <rect id="Rectangle-Copy-4" fill="url(#linearGradient-13)" transform="translate(968.432820, 450.389932) rotate(135.000000) translate(-968.432820, -450.389932) " x="618.069522" y="335.510423" width="700.726596" height="229.759018"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
