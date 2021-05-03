@@ -19,7 +19,7 @@
     font-size: 48px;
     max-width: 1000px;
     margin: 0 auto;margin-top: 32px !important">Deploy Industry's First Configurable 
-Multi Country End to End Visibility Solution</h1>
+Multi Country End to End Visibility Solutions.</h1>
               <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;">Free Trial</button>
               </div>
             </div>
