@@ -6,21 +6,24 @@
           <div class="col-lg-12 o-card-pool">
             <!-- Info -->
             <div class="mb-12" style="text-align: center;">
-              <span style="    font-family: CarosMedium;
+              <!-- <span style="    font-family: CarosMedium;
     font-size: 16px;
     color: rgb(26, 232, 146);
     letter-spacing: 0px;
     padding: 4px 16px;
     background: rgb(26 232 146 / 30%);
-    border-radius: 20px;">Personalize your supply chain suite</span>
+    border-radius: 20px;">Personalize your supply chain suite</span> -->
               <h1 class="display-4 mb-0" style="    color: rgb(255, 255, 255);
     font-family: Caros !important;
     font-weight: bold;
     font-size: 48px;
     max-width: 1000px;
-    margin: 0 auto;margin-top: 32px !important">Deploy Industry's First Configurable 
-Multi Country End to End Visibility Solutions.</h1>
-              <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;">Free Trial</button>
+    margin: 0 auto;margin-top: 32px !important">Personalize your supply chain suite</h1>
+    <p style="    margin-top: 16px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;    letter-spacing: 0.32px;">Deploy Industry's First Configurable Multi Country End to End Visibility Solution</p>
+              <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">Book a Demo</button>
               </div>
             </div>
           </div>
@@ -55,7 +58,7 @@ text-align: center;padding: 60px 20px;">Key difference that makes us top notch</
                                 Essential Studio is a software package that provides state-of-the-art solutions for startups and enterprises. It includes more than 1,600 components and frameworks for WinForms, WPF, ASP.NET (Web Forms, MVC, Core), UWP, WinUI (Preview), Xamarin, Flutter, Blazor, JavaScript, Angular, Vue, and React that make developers’ work easier.
                             </p>
                 </div> -->
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 1000-components highlight-content match-height four-col-content" style="height: 175.844px;
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 1000-components highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
                             <p>  <img alt="1,600+ components" src="../assets/1.svg" loading="lazy"> </p>
@@ -64,11 +67,11 @@ text-align: center;padding: 60px 20px;">Key difference that makes us top notch</
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Low Code Platform Forms and Workflows</h4>
+line-height: 30px;     max-width: 200px;   margin: auto;">Low code supply chain platform</h4>
 
                         
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 demo-and-training highlight-content match-height four-col-content" style="height: 175.844px;
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 demo-and-training highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
                             <p>  <img alt="Demos and training" src="../assets/2.svg" loading="lazy"> </p>
@@ -77,9 +80,9 @@ line-height: 30px;">Low Code Platform Forms and Workflows</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Robotic Process Automation</h4>
+line-height: 30px;     max-width: 200px;   margin: auto;">Workflow process Automation</h4>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
                             <p>  <img alt="Performance" src="../assets/3.svg" loading="lazy"> </p>
@@ -88,9 +91,9 @@ line-height: 30px;">Robotic Process Automation</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Machine Learning Solutions</h4>
+line-height: 30px;      max-width: 200px;  margin: auto;">Machine Learning Solutions</h4>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 file-format-libraries highlight-content match-height four-col-content" style="height: 175.844px;
+                    <!-- <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 file-format-libraries highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
                             <p>  <img alt="File format" src="../assets/4.svg" loading="lazy"> </p>
@@ -101,7 +104,7 @@ letter-spacing: 0;
 text-align: center;
 line-height: 30px;max-width: 220px;
     margin: auto;">Blockchain Capabilities</h4>
-                    </div>
+                    </div> -->
                     
                     
                     

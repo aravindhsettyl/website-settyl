@@ -14,7 +14,7 @@
           <div class="contact-header"  style="max-width: 550px;
     text-align: center;
     margin: 0 auto;">
-            The journey of billion miles begin with a thoughtful First MileLead the way, Think Settyl
+            The journey of billion miles begin with a thoughtful First Mile
           </div>
         </div>
       </div>
