@@ -22,7 +22,7 @@ Embrace <span style="    color: rgb(62, 60, 218);
     background: rgb(62 60 218 / 10%);
     padding: 0px 7px;">unified platform</span> for better experience
             </h1>
-            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book a Demo</button>
+            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book Demo</button>
           </div>
           <div class="col-sm-6 custom-track-column-2 frst-feature-img" style=" text-align: center;">
             <img src="../assets/multi-banner.png" alt="BoldSign" width="100%" height="auto">
@@ -38,7 +38,7 @@ Embrace <span style="    color: rgb(62, 60, 218);
 font-size: 34px;
 color: #222B45;
 letter-spacing: -1px;
-text-align: center;padding-bottom: 56px;">How do we do ? All Modes.</h2>
+text-align: center;padding-bottom: 56px;">How do we do? All Modes.</h2>
 
                             
                 </div>

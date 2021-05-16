@@ -17,13 +17,13 @@
     font-family: Caros !important;
     font-weight: bold;
     font-size: 48px;
-    max-width: 1000px;
-    margin: 0 auto;margin-top: 32px !important">Personalize your supply chain suite</h1>
+    max-width: 942px;
+    margin: 0 auto;margin-top: 32px !important;line-height: 1.3;">Personalize your supply chain suite with low code platform </h1>
     <p style="    margin-top: 16px;
     color: #fff;
     font-size: 18px;
     font-weight: 500;    letter-spacing: 0.32px;">Deploy Industry's First Configurable Multi Country End to End Visibility Solution</p>
-              <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">Book a Demo</button>
+              <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">Book Demo</button>
               </div>
             </div>
           </div>
@@ -329,8 +329,10 @@ line-height: 26px;">
 font-size: 34px;
 color: #222B45;
 letter-spacing: 0;
-text-align: center;padding: 60px 20px;">Key difference that makes us top notch</h2>
-                            
+text-align: center;padding: 60px 20px;    padding-bottom: 12px;">Integrations. Discover even more possibilities</h2>
+                            <p class="" style="color: #333;max-width: 600px;margin: auto;padding-bottom: 48px">
+                              Introducing Settyl’s Connector for Seamless Integration and Continuous Synchronization using Process Automation
+                            </p>
                 </div>
         </div>
             <div class="row">

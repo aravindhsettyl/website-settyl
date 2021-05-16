@@ -21,7 +21,7 @@
     background: rgb(62 60 218 / 10%);
     padding: 0px 7px;">Risk and Threats</span> Insights on every lane through out your journey
             </h1>
-            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book a Demo</button>
+            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book Demo</button>
           </div>
           <div class="col-sm-6 custom-track-column-2 frst-feature-img" style=" text-align: center;">
             <img src="../assets/risk-intelligence.svg" alt="BoldSign" width="100%" height="auto">
