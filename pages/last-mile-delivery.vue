@@ -10,7 +10,7 @@
     letter-spacing: 0px;
     padding: 9px 16px;
     background: #FFF5ED;
-    border-radius: 20px;">Dynamic fulfillment</span>
+    border-radius: 20px;letter-spacing: 0.32px">Dynamic Fulfillment</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
     letter-spacing: -1px;
@@ -24,7 +24,7 @@
     letter-spacing: 0;
     line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span>
             </h1>
-            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book a Demo</button>
+            <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book Demo</button>
           </div>
           <div class="col-sm-6 custom-track-column-2 frst-feature-img" style=" text-align: center;">
             <img src="../assets/last-mile-delivery-banner.svg" alt="BoldSign" width="100%" height="auto">
@@ -62,12 +62,12 @@ text-align: center;padding: 20px 20px 10px 20px;">Last Mile Delivery Optmization
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Multi Tenant Order Processing</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Empower business users to manage orders from multi channel and boost fulfillment execution to deliver a tailored customer experience
                         </h6>
                         
                     </div>
@@ -92,12 +92,13 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Driver and Vehicle Management</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Gain real time availability of your assets.
+Allocate orders dynamically for better management of capacity and utilization
                         </h6>
                         
                     </div>
@@ -121,12 +122,13 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">Dynamic Delivery Orchestration</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                           Optimize your last mile delivery engagements.
+Modal - Scale to meet your growing demands with our unified delivery and fulfillment solution
                         </h6>
                         
                     </div>
@@ -151,12 +153,12 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px">In-Transit Visibility</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Download Anytime and Anywhere Multi context shipping documents automation made easy for you
+                            Get frequent alerts and notifications to improve On Time Delivery. Boost customer line rate utilization with our track and trace solutions
                         </h6>
                         
                     </div>

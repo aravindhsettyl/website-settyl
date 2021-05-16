@@ -11,7 +11,8 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-         <b-nav-item-dropdown id="products-settyl" text="All Products" right>
+        <b-nav-item href="/platforms">Platform</b-nav-item>
+         <b-nav-item-dropdown id="products-settyl" text="Products" right>
           <b-dropdown-item href="/multi-modal-visibility"><span class="getting"><span style="
     width: 40px;
     height: 40px;
@@ -123,7 +124,7 @@
 </svg></span><span>Operational Planning</span></b-dropdown-item>
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
-        <b-nav-item href="/platforms">Platforms</b-nav-item>
+        
         <b-nav-item href="/industries">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
           <b-dropdown-item href="/blog">Blog</b-dropdown-item>
