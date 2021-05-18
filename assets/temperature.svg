@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>temperature</title>
+    <title>Group</title>
     <desc>Created with Sketch.</desc>
-    <g id="temperature" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-56">
-            <circle id="Oval-Copy-106" fill="#E8D8FF" cx="45" cy="45" r="45"></circle>
-            <g id="Group-18" transform="translate(29.000000, 28.000000)" stroke="#8631FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
-                <path d="M3.88959207,20.4166667 C0.840951953,22.1767999 -0.64538745,25.7651406 0.265724535,29.1654568 C1.17683652,32.565773 4.25821457,34.9301976 7.77848096,34.9301976 C11.2987474,34.9301976 14.3801254,32.565773 15.2912374,29.1654568 C16.2023494,25.7651406 14.71601,22.1767999 11.6673699,20.4166667 L11.6673699,3.88888889 C11.6673699,1.74111486 9.92625499,4.89843856e-14 7.77848096,4.89843856e-14 C5.63070693,4.89843856e-14 3.88959207,1.74111486 3.88959207,3.88888889 L3.88959207,20.4166667" id="Path"></path>
-                <line x1="3.88959207" y1="11.6666667" x2="11.6673699" y2="11.6666667" id="Path"></line>
-                <line x1="19.4451476" y1="11.6666667" x2="31.1118143" y2="11.6666667" id="Path"></line>
-                <line x1="25.278481" y1="5.83333333" x2="25.278481" y2="17.5" id="Path"></line>
+    <defs>
+        <linearGradient x1="104.761773%" y1="50%" x2="-4.76177275%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#8631FF" offset="0%"></stop>
+            <stop stop-color="#8631FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="temperature" fill="#E8D8FF" fill-rule="nonzero">
+                <circle id="Oval-Copy-106" cx="45" cy="45" r="45"></circle>
+            </g>
+            <g id="Temprature-Tracking" transform="translate(32.000000, 27.000000)">
+                <path d="M4.0087,21.042 C0.86671,22.856 -0.66515,26.5542 0.27386,30.0587 C1.21288,33.5632 4.3886,36 8.0167,36 C11.6448,36 14.8205,33.5632 15.7596,30.0587 C16.6986,26.5542 15.1667,22.856 12.0247,21.042 L12.0247,4.00799 C12.0247,1.79444 10.2303,0 8.0167,0 C5.8032,0 4.0087,1.79444 4.0087,4.00799 L4.0087,21.042" id="Path" stroke="#8631FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="8.0156" y1="23.7043" x2="8.0156" y2="12.1384" id="Path" stroke="#8631FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="15.9736" y1="3.0918" x2="23.7033" y2="3.0918" id="Path" stroke="#8631FF" stroke-width="2" stroke-linecap="round"></line>
+                <line x1="16.4902" y1="8.2451" x2="20.6127" y2="8.2451" id="Path" stroke="#8631FF" stroke-width="2" stroke-linecap="round"></line>
+                <line x1="15.9736" y1="13.3982" x2="26.7952" y2="13.3982" id="Path" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></line>
+                <line x1="16.4902" y1="18.5513" x2="21.6434" y2="18.5513" id="Path" stroke="#8631FF" stroke-width="2" stroke-linecap="round"></line>
+                <circle id="Oval" stroke="#8631FF" stroke-width="2" fill="#8631FF" fill-rule="nonzero" cx="7.7296" cy="28.3422" r="3.63782"></circle>
             </g>
         </g>
     </g>
