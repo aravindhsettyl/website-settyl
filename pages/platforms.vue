@@ -10,19 +10,24 @@
     letter-spacing: 0px;
     padding: 9px 16px;
     background: #FFF5ED;
-    border-radius: 20px;">Dynamic fulfillment</span>
+    border-radius: 20px;">Systems of engagement</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
     letter-spacing: -1px;
-    line-height: 62px;
+    line-height: 56px;
     margin-top: 16px;
     font-weight: 600;">
-              OTIF - <span style="    color: rgb(62, 60, 218);
-    background: rgb(62 60 218 / 10%);
-    padding: 0px 7px;">Customer Experience</span><br><span style="    font-size: 44px;
-    color: #0A132E;
-    letter-spacing: 0;
-    line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span>
+              One Global Platform to<br> <span style="    color: rgb(62, 60, 218);
+        background: rgb(62 60 218 / 10%);
+        padding: 0px 7px;">power business</span> of any size
+                <!-- <span style="    color: rgb(62, 60, 218);
+        background: rgb(62 60 218 / 10%);
+        padding: 0px 7px;">Customer Experience</span>
+        <br>
+        <span style="    font-size: 44px;
+        color: #0A132E;
+        letter-spacing: 0;
+        line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span> -->
             </h1>
             <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book Demo</button>
           </div>
@@ -47,15 +52,16 @@ text-align: center;padding: 20px 20px 10px 20px;font-weight: 700">Core Platform 
                             
                 </div>
         </div>
-            <div class="row" style="    padding: 60px 0px;">
+            <div class="row" style="    padding: 30px 0px;">
                 <div class="col-6 col-lg-6 align-self-center">
                     <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
 border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
                       <img width="300" height="auto" src="../assets/lm-banner1.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
     padding-top: 32px;">
-                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+                        <h2 class="primarysemi charcoal700" style="    font-family: Caros;
 font-size: 24px;
 color: #171E35;
+font-weight: bold;
 letter-spacing: 0;margin-top: 32px">Predictive Analytics</h2>
                         <h6 class="primaryfont charcoal400" style="font-family: Caros;
 font-size: 16px;
@@ -70,11 +76,12 @@ line-height: 24px;font-weight: 400;max-width: 85%">
                 <div class="col-6 col-lg-6" style="text-align: center;">
                     <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
 border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
-                      <img width="300" height="auto" src="../assets/platform2.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
+                      <img width="320" height="auto" src="../assets/platform2.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
     padding-top: 32px;">
-                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+                        <h2 class="primarysemi charcoal700" style="    font-family: Caros;
 font-size: 24px;
 color: #171E35;
+font-weight: bold;
 letter-spacing: 0;margin-top: 32px">Multi Tenancy in Supply chain</h2>
                         <h6 class="primaryfont charcoal400" style="font-family: Caros;
 font-size: 16px;
@@ -97,8 +104,9 @@ line-height: 24px;font-weight: 400;max-width: 85%">
 border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
                       <img width="300" height="auto" src="../assets/platform3.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
     padding-top: 32px;">
-                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+                        <h2 class="primarysemi charcoal700" style="    font-family: Caros;
 font-size: 24px;
+font-weight: bold;
 color: #171E35;
 letter-spacing: 0;margin-top: 32px">Multi Context Visibility</h2>
                         <h6 class="primaryfont charcoal400" style="font-family: Caros;
@@ -116,9 +124,10 @@ line-height: 24px;font-weight: 400;max-width: 90%">
 border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
                       <img width="300" height="auto" src="../assets/platform4.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
     padding-top: 32px;">
-                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+                        <h2 class="primarysemi charcoal700" style="    font-family: Caros;
 font-size: 24px;
 color: #171E35;
+font-weight: bold;
 letter-spacing: 0;margin-top: 32px">Workflow Automation</h2>
                         <h6 class="primaryfont charcoal400" style="font-family: Caros;
 font-size: 16px;
@@ -135,15 +144,16 @@ line-height: 24px;font-weight: 400;max-width: 85%">
                     
                 
             </div>
-            <div class="row" style="    padding: 60px 0px;">
+            <div class="row" style="    padding: 30px 0px;">
                 <div class="col-6 col-lg-6 align-self-center">
                     <div class="two-column-title-hold text-center text-lg-left" style="background: rgb(245 247 251);
 border-radius: 8px;padding-left: 40px;padding-bottom: 40px;padding-top:32px">
                       <img width="300" height="auto" src="../assets/platform5.svg" class="attachment-full size-full" alt="" loading="lazy" style="    
     padding-top: 32px;">
-                        <h2 class="primarysemi charcoal700" style="    font-family: CarosBold;
+                        <h2 class="primarysemi charcoal700" style="    font-family: Caros;
 font-size: 24px;
 color: #171E35;
+font-weight: bold;s
 letter-spacing: 0;margin-top: 32px">Prescriptive Analytics</h2>
                         <h6 class="primaryfont charcoal400" style="font-family: Caros;
 font-size: 16px;

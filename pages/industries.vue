@@ -10,19 +10,23 @@
     letter-spacing: 0px;
     padding: 9px 16px;
     background: #FFF5ED;
-    border-radius: 20px;">Dynamic fulfillment</span>
+    border-radius: 20px;">Suppliers - 3PL - Carriers - Freight Brokers</span>
             <h1 class="heading-4" style="    font-size: 38px;
     color: rgb(10, 19, 46);
     letter-spacing: -1px;
     line-height: 62px;
     margin-top: 16px;
     font-weight: 600;">
-              OTIF - <span style="    color: rgb(62, 60, 218);
+              Shipping <span style="    color: rgb(62, 60, 218);
+    background: rgb(62 60 218 / 10%);
+    padding: 0px 7px;">physical goods or services</span>  to your customer? We serve you 
+              
+              <!-- <span style="    color: rgb(62, 60, 218);
     background: rgb(62 60 218 / 10%);
     padding: 0px 7px;">Customer Experience</span><br><span style="    font-size: 44px;
     color: #0A132E;
     letter-spacing: 0;
-    line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span>
+    line-height: 62px;">Leverage Our Unified Delivery Orchestration Solution</span> -->
             </h1>
             <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;    background-color: rgb(62, 60, 218) !important;">Book Demo</button>
           </div>
@@ -40,7 +44,7 @@
 font-size: 34px;
 color: #222B45;
 letter-spacing: 0;
-text-align: center;padding: 60px 20px;">Key difference that makes us top notch</h2>
+text-align: center;padding: 60px 20px;">Our Competency</h2>
                             
                 </div>
         </div>
@@ -60,7 +64,7 @@ text-align: center;padding: 60px 20px;">Key difference that makes us top notch</
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">TMS</h4>
+line-height: 30px;">Enterprise suite</h4>
 
                         
                     </div>
@@ -73,7 +77,7 @@ line-height: 30px;">TMS</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">ELD/GPS</h4>
+line-height: 30px;">Any Integration</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
@@ -84,7 +88,7 @@ line-height: 30px;">ELD/GPS</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Dispatch Sys</h4>
+line-height: 30px;">Easy onboarding</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
@@ -95,7 +99,7 @@ line-height: 30px;">Dispatch Sys</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">IoT Devices</h4>
+line-height: 30px;">Paperless contracts</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
@@ -106,7 +110,7 @@ line-height: 30px;">IoT Devices</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">HRMS</h4>
+line-height: 30px;">Configurable Multi Tenant Dashboard</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
@@ -117,7 +121,7 @@ line-height: 30px;">HRMS</h4>
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Financial Sys</h4>
+line-height: 30px;">Simplified collaborations</h4>
                     </div>
             </div>
         </div>

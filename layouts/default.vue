@@ -204,6 +204,17 @@
             </div>
         </div>
       </div>
+      <div id="copyrightWrapper" class="container grid-x grid-margin-x align-middle">
+            <!--Column--->
+            <div class="cell" style="    text-align: left;
+    margin-top: 32px;
+    color: rgb(162, 162, 227) !important;
+    border-top: 1px solid #23237e;
+    padding-top: 24px;">
+                    © 2021 Settyl Inc. All rights reserved&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy-policy/" title="Privacy Policy" style="    color: rgb(162, 162, 227) !important;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms-of-service/" title="Terms of Service" style="    color: rgb(162, 162, 227) !important;">Terms of Service</a>
+            </div>
+            <!--/end Column--->
+        </div>
     </footer>
  <b-modal id="modal-1" title="BootstrapVue">
     <p class="my-4">Hello from modal!</p>
@@ -376,7 +387,7 @@ body {
 }
 
 .listings li a {
-  color: #A2A2E3 !important;
+  color: #fff !important;
 }
 
 .custom-input {
@@ -917,12 +928,12 @@ ul.dropdown-menu li {
 }
 
 .listings li a:hover {
-  color: #fe4901 !important;
+  color: #fff !important;
   text-decoration: none;
 }
 
 .listings li a {
-  color: #68758e !important;
+  color: rgb(162, 162, 227)  !important;
 }
 
 .custom-input {
