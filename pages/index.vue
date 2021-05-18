@@ -47,7 +47,7 @@
 font-size: 34px;
 color: #222B45;
 letter-spacing: 0;
-text-align: center;padding: 60px 20px;">Key difference that makes us top notch</h2>
+text-align: center;padding: 60px 20px;    font-weight: 600;">Key difference that makes us top notch</h2>
                             
                 </div>
         </div>
@@ -243,7 +243,7 @@ line-height: 22px;">Enabling configurable dashboard to define and measure region
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driving Paperless through our Smart Contracts</h2>
+    line-height: 44px;padding-bottom: 16px;    font-weight: 600;">Driving Paperless through our Smart Contracts</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
@@ -275,7 +275,7 @@ color: #262E48;
 letter-spacing: 0;
 text-align: center;
 line-height: 48px;max-width: 950px;font-weight: 500;
-    margin: auto;">Pioneering Cognitive Analytics For Shippers, LSPs and Freight Brokers To Drive Lean Supply Chain</h2>
+    margin: auto;    font-weight: 600;">Pioneering Cognitive Analytics For Shippers, LSPs and Freight Brokers To Drive Lean Supply Chain</h2>
                         
               </div>
                 
@@ -329,7 +329,7 @@ line-height: 26px;">
 font-size: 34px;
 color: #222B45;
 letter-spacing: 0;
-text-align: center;padding: 60px 20px;    padding-bottom: 12px;">Integrations. Discover even more possibilities</h2>
+text-align: center;padding: 60px 20px;    padding-bottom: 12px;    font-weight: 600;">Integrations. Discover even more possibilities</h2>
                             <p class="" style="color: #333;max-width: 600px;margin: auto;padding-bottom: 48px">
                               Introducing Settyl’s Connector for Seamless Integration and Continuous Synchronization using Process Automation
                             </p>
