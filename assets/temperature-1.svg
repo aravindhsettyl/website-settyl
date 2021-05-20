@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="temperature" fill="#E8D8FF" fill-rule="nonzero">
+                <circle id="Oval-Copy-106" cx="45" cy="45" r="45"></circle>
+            </g>
+            <g id="Temprature-Tracking" transform="translate(32.000000, 27.000000)" stroke="#8631FF">
+                <path d="M4.0087,21.042 C0.86671,22.856 -0.66515,26.5542 0.27386,30.0587 C1.21288,33.5632 4.3886,36 8.0167,36 C11.6448,36 14.8205,33.5632 15.7596,30.0587 C16.6986,26.5542 15.1667,22.856 12.0247,21.042 L12.0247,4.00799 C12.0247,1.79444 10.2303,0 8.0167,0 C5.8032,0 4.0087,1.79444 4.0087,4.00799 L4.0087,21.042" id="Path" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="8.0156" y1="23.7043" x2="8.0156" y2="12.1384" id="Path" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M15.9736,3.0918 L23.7033,3.0918 M16.4902,8.2451 L20.6127,8.2451 M15.9736,13.3982 L26.7952,13.3982 M16.4902,18.5513 L21.6434,18.5513" id="Combined-Shape" stroke-width="2" stroke-linecap="round"></path>
+                <circle id="Oval" stroke-width="2" fill="#8631FF" fill-rule="nonzero" cx="7.7296" cy="28.3422" r="3.63782"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
