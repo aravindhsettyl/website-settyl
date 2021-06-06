@@ -121,7 +121,7 @@ text-align: center;padding: 20px 20px 10px 20px;">Multimodal Visibility</h2>
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Real Time Transportation Visibility</h2>
+    line-height: 44px;padding-bottom: 16px">Real Time Tracking</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
@@ -180,18 +180,19 @@ line-height: 26px;">
                         <h2 class="primarysemi charcoal700" style="    font-size: 34px;
     color: #262E48;
     letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">Driver app</h2>
+    line-height: 44px;padding-bottom: 16px">Dynamic Delivery Orchestration</h2>
                         <h6 class="primaryfont charcoal400" style="font-size: 16px;
 color: #3A435E;
 letter-spacing: 0;
 line-height: 26px;">
-                            Driver's preference based Lane allocations Enabling contactless proof of delivery and manage dynamic shipments using one App
+                           Optimize your last mile delivery engagements.
+Modal - Scale to meet your growing demands with our unified delivery and fulfillment solution
                         </h6>
                         
                     </div>
                 </div>  
                 <div class="col-12 col-lg-6" style="text-align: center;">
-                    <img width="420" height="auto" src="../assets/calendar.png" class="attachment-full size-full" alt="" loading="lazy">
+                    <img width="420" height="auto" src="../assets/lm-banner3.svg" class="attachment-full size-full" alt="" loading="lazy">
                 </div>
             
                     
@@ -200,6 +201,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
+   
     <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #F3FDFF;padding-bottom: 80px;    padding-top: 80px;">
         <div class="container">
        
@@ -229,7 +231,94 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fff;padding-bottom: 80px;    padding-top: 80px;">
+     <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 80px;    padding-top: 80px;">
+        <div class="container">
+       
+            <div class="row">
+                <div class="col-12 col-lg-6 align-self-center">
+                    <div class="two-column-title-hold text-center text-lg-left">
+                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
+    color: #262E48;
+    letter-spacing: 0;
+    line-height: 44px;padding-bottom: 16px">Driver app</h2>
+                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 26px;">
+                            Driver's preference based Lane allocations Enabling contactless proof of delivery and manage dynamic shipments using one App
+                        </h6>
+                        
+                    </div>
+                </div>  
+                <div class="col-12 col-lg-6" style="text-align: center;">
+                    <img width="420" height="auto" src="../assets/calendar.png" class="attachment-full size-full" alt="" loading="lazy">
+                </div>
+            
+                    
+                    
+                
+            </div>
+        </div>
+    </section>
+    <section class="features-four-cards" style="padding: 60px 0px;background: #FAFBFF;padding-bottom: 80px !important;">
+        <div class="text-center head">
+            <h2 class="primarysemi" style="font-size: 34px;
+color: #262E48;
+letter-spacing: 0;
+text-align: center;
+line-height: 48px;font-weight: 600;">Post Fulfillment - Customer Experience</h2>
+            <h4 class="primaryfont mx-auto" style="font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+text-align: center;
+line-height: 26px;padding-bottom: 40px">Unleash  360 degree visibility and connectivity</h4>
+        </div>
+        <div class="container f-cards ">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="rect" style="text-align: center;background: #E7FBFF;border-radius: 12px;padding: 30px 16px 40px 16px">
+                        <!-- <img src="../assets/real-time.svg" class="fullimg" alt="" loading="lazy"> -->
+                        <h4 class="primarysemi" style="padding-top: 16px;font-size: 20px;
+color: #171E35;
+letter-spacing: 0;
+text-align: center;
+font-weight: 500;
+    
+line-height: 32px;">Proof of Delivery Management</h4>
+                        <h5 class="h5a charcoal400" style="font-size: 14px;
+color: #3A435E;
+letter-spacing: 0;
+text-align: center;
+    max-width: 80%;
+    margin: 0 auto;
+line-height: 22px; ">Enable region/country specific contactless digital delivery confirmation process through multiple channels.</h5>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="rect" style="text-align: center;background: #F6F0FF;border-radius: 12px;padding: 30px 16px 40px 16px">
+                        <!-- <img src="../assets/temperature-1.svg" class="fullimg" alt="" loading="lazy"> -->
+                        <h4 class="primarysemi" style="padding-top: 16px;font-size: 20px;
+color: #171E35;
+letter-spacing: 0;
+text-align: center;
+    font-weight: 500;
+    
+line-height: 32px;">Claims Management</h4>
+                        <h5 class="h5a charcoal400" style="font-size: 14px;
+color: #3A435E;
+letter-spacing: 0;
+text-align: center;
+    max-width: 80%;
+    margin: 0 auto;
+line-height: 22px;">Manage your customer claims and disputes in a efficient way through our digital system.</h5>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        
+    </section>
+    <!-- <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fff;padding-bottom: 80px;    padding-top: 80px;">
         <div class="container">
        
             <div class="row">
@@ -282,7 +371,7 @@ line-height: 26px;">
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 </section>
 
 </template>

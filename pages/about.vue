@@ -61,9 +61,9 @@ A group of passionate individuals set out to address the above pain point lead t
                         </h6>
                         <p style="background: #FFFFFF;
 box-shadow: 0 12px 34px 0 rgba(62,60,218,0.08);
-border-radius: 8px;padding: 20px 32px; margin-top: 24px">Multi Country - Multi Tenant - Multi Enterprise
+border-radius: 8px;padding: 20px 32px; margin-top: 24px; text-align: center;"> <span style="color: #07CDA7"> Multi Country - Multi Tenant - Multi Enterprise </span><br/>
 
-Configurable Supply chain visibility software</p>
+<span style="color: #07CDA7"> Configurable Supply chain visibility software </span></p>
  <h6 class="primaryfont charcoal400" style="font-size: 16px; color: rgb(58, 67, 94); letter-spacing: 0px; line-height: 26px;font-weight:400;margin-top: 24px">
                             The journey of Settyl begins to ensure new-age inclusive digital growth for all.
                         </h6>

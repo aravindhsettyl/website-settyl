@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Enterprise Suite</title>
+    <g id="Enterprise-Suite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy">
+            <circle id="Oval-Copy-105" fill="#CBF5FE" cx="45" cy="45" r="45"></circle>
+            <g id="Group" transform="translate(21.000000, 21.000000)">
+                <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+                <line x1="6" y1="42" x2="42" y2="42" id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polyline id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="10 42 10 14 26 6 26 42"></polyline>
+                <polyline id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="38 42 38 22 26 14"></polyline>
+                <line x1="18" y1="18" x2="18" y2="18.02" id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="18" y1="24" x2="18" y2="24.02" id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="18" y1="30" x2="18" y2="30.02" id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="18" y1="36" x2="18" y2="36.02" id="Path" stroke="#0ED2FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
