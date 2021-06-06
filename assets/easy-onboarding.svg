@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Easy Onboarding</title>
+    <g id="Easy-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7-Copy">
+            <circle id="Oval-Copy-107" fill="#FFDDDF" cx="45" cy="45" r="45"></circle>
+            <g id="Group" transform="translate(21.000000, 21.000000)">
+                <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+                <rect id="Rectangle" stroke="#FF3945" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="8" y="8" width="12" height="12" rx="2"></rect>
+                <rect id="Rectangle" stroke="#FF3945" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="8" y="28" width="12" height="12" rx="2"></rect>
+                <rect id="Rectangle" stroke="#FF3945" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="28" y="28" width="12" height="12" rx="2"></rect>
+                <line x1="28" y1="14" x2="40" y2="14" id="Path" stroke="#FF3945" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="34" y1="8" x2="34" y2="20" id="Path" stroke="#FF3945" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

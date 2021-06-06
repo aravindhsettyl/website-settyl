@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Simplified Collaboration</title>
+    <g id="Simplified-Collaboration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12-Copy">
+            <circle id="Oval-Copy-110" fill="#FFF3EB" cx="45" cy="45" r="45"></circle>
+            <g id="Group" transform="translate(21.000000, 21.000000)">
+                <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+                <circle id="Oval" stroke="#FF8432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="19" cy="19" r="13"></circle>
+                <rect id="Rectangle" stroke="#FF8432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="20" y="20" width="22" height="22" rx="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

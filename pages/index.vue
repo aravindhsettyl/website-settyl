@@ -151,7 +151,7 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
             </div>
         </div>
     </section>
-    <section class="features-six-masonry-two position-relative kfdw-pos-masonry">
+    <section class="features-six-masonry-two position-relative kfdw-pos-masonry" style="padding-bottom: 60px !important;">
         <div class="frozen-effect"></div>
         <div class="container" style="    padding-top: 64px;
 ">
@@ -179,10 +179,10 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;    max-width: 90%;     padding: 48px 12px 24px 12px;">
-                                    <img width="60" height="60" src="../assets/multi-module.svg" class="fullimg" alt="" loading="lazy">
+                                    <img width="60" height="60" src="../assets/low-code.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Multimodal Visibility</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Low Code Platform</h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Design-Configure-Integrate without IT skills and enable futuristic citizen development capabilities.</p>
                                         <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>
                                 </div>
@@ -192,22 +192,21 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;    max-width: 90%;     margin-bottom: 30px;    padding: 48px 12px 24px 12px;">
-                                    <img width="60" height="60" src="../assets/risk-intelligence-prod.svg" class="fullimg" alt="" loading="lazy">
+                                    <img width="60" height="60" src="../assets/multi-module.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Risk Intelligence &
- Customer Analytics</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Multimodal Visibility</h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Information at the Right Time for informed and proactive business decisions</p>
                                          <a href="/risk-intelligence"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>
                                 </div>
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;    max-width: 90%;     padding: 48px 12px 24px 12px;">
-                                    <img width="60" height="60" src="../assets/last-mile-prod.svg" class="fullimg" alt="" loading="lazy">
+                                    <img width="60" height="60" src="../assets/risk-intelligence-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Last Mile 
-Delivery Optimization</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. 
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Risk Intelligence &
+ Customer Analytics </h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Know your operating lanes and network before you engage and ship 
                                         </p>
                                          <a href="/last-mile-delivery"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>
@@ -221,7 +220,7 @@ Delivery Optimization</h5>
                                     <img width="60" height="60" src="../assets/operational-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Operational Planning</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Optimize resources for the complete backend automation</p>
                                         <a href="/operational-planning"> <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>
                                 </div>
@@ -230,8 +229,8 @@ Delivery Optimization</h5>
     border-radius: 12px;     max-width: 90%;    padding: 48px 12px 24px 12px;">
                                     <img width="60" height="60" src="../assets/smart-doc-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Contracts</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. <br></p>
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Docs</h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Enable paperless shipping documents for sustainable business<br></p>
                                          <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>
                                 </div>
@@ -299,7 +298,7 @@ Delivery Optimization</h5>
                             <div class="masonary-tiles-content text-center border-0 shade3">
                                 <img width="60" height="60" src="../assets/smart-doc-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Contracts</h5>
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Docs</h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. <br></p>
                                          <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
                                     </div>

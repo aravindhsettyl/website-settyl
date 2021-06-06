@@ -79,8 +79,37 @@ line-height: 26px;">
             </div>
         </div>
     </section>
+    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #f6f9ff;padding-bottom: 30px;    padding-top: 30px;">
+        <div class="container">
+       
+            <div class="row">
+                <div class="col-12 col-lg-6 align-self-center">
+                    <div class="two-column-title-hold text-center text-lg-left">
+                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
+    color: #262E48;
+    letter-spacing: 0;
+    line-height: 44px;padding-bottom: 16px">3D Load Design</h2>
+                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
+color: #3A435E;
+letter-spacing: 0;
+line-height: 26px;">
+                            Consolidate shipments and effectively utilize your cargo spaces with our 3-Dimensional load design platform.
+                        </h6>
+                        
+                    </div>
+                </div>  
+                <div class="col-12 col-lg-6" style="text-align: center;">
+                    <img width="520" height="auto" src="../assets/gris.png" class="attachment-full size-full" alt="" loading="lazy">
+                </div>
+            
+                    
+                    
+                
+            </div>
+        </div>
+    </section>
     <section class="segment new-highlight-home-image-section" id="overview" style="
-    background: #FBF8FF;padding-bottom: 80px;    padding-top: 80px;">
+    background: #fff;padding-bottom: 80px;    padding-top: 80px;">
         <div class="container">
         
             <div class="row">
@@ -111,7 +140,7 @@ Enable integration with your existing systems with ease
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 80px;    padding-top: 80px;">
+    <section class="segment new-highlight-home-image-section" id="overview" style="background: #FBF8FF; padding-bottom: 80px;    padding-top: 80px;">
         <div class="container">
        
             <div class="row">
@@ -140,7 +169,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #F3FDFF;padding-bottom: 80px;    padding-top: 80px;">
+    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fff;padding-bottom: 80px;    padding-top: 80px;">
         <div class="container">
        
             <div class="row">
@@ -169,36 +198,8 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fff;padding-bottom: 80px;    padding-top: 80px;">
-        <div class="container">
-       
-            <div class="row">
-                <div class="col-12 col-lg-6 align-self-center">
-                    <div class="two-column-title-hold text-center text-lg-left">
-                        <h2 class="primarysemi charcoal700" style="    font-size: 34px;
-    color: #262E48;
-    letter-spacing: 0;
-    line-height: 44px;padding-bottom: 16px">3D Load Design</h2>
-                        <h6 class="primaryfont charcoal400" style="font-size: 16px;
-color: #3A435E;
-letter-spacing: 0;
-line-height: 26px;">
-                            Consolidate shipments and effectively utilize your cargo spaces with our 3-Dimensional load design platform.
-                        </h6>
-                        
-                    </div>
-                </div>  
-                <div class="col-12 col-lg-6" style="text-align: center;">
-                    <img width="520" height="auto" src="../assets/gris.png" class="attachment-full size-full" alt="" loading="lazy">
-                </div>
-            
-                    
-                    
-                
-            </div>
-        </div>
-    </section>
-     <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #FFFAF6;padding-bottom: 80px;    padding-top: 80px;">
+    
+     <section class="segment new-highlight-home-image-section" id="overview" style="background-color: #fffaf6;padding-bottom: 30px;    padding-top: 30px;">
         <div class="container">
        
             <div class="row">

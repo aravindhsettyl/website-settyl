@@ -11,8 +11,15 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="/platforms">Platform</b-nav-item>
+        <b-nav-item href="/platforms">Low code platform</b-nav-item>
          <b-nav-item-dropdown id="products-settyl" text="Products" right>
+           <b-dropdown-item href="/operational-planning"><span style="
+    width: 40px;
+    height: 40px;
+    margin-left: 12px;
+        margin-right: 20px;
+"><img width="60" height="60" src="../assets/operational-prod.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
+</span><span>Operational Planning</span></b-dropdown-item>
           <b-dropdown-item href="/multi-modal-visibility"><span class="getting"><span style="
     width: 40px;
     height: 40px;
@@ -37,13 +44,13 @@
         </g>
     </g>
 </svg></span><span>Multimodal Visibility</span></span></b-dropdown-item>
-          <b-dropdown-item href="/last-mile-delivery"><span style="
+          <!-- <b-dropdown-item href="/last-mile-delivery"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
         margin-right: 20px;
 "><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+   
     <title>Group 49 Copy 2</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -61,7 +68,7 @@
             </g>
         </g>
     </g>
-</svg></span><span>Last Mile Delivery Optimization</span></b-dropdown-item>
+</svg></span><span>Last Mile Delivery Optimization</span></b-dropdown-item> -->
           <b-dropdown-item href="/risk-intelligence"><span style="
     width: 40px;
     height: 40px;
@@ -104,24 +111,7 @@
         </g>
     </g>
 </svg></span><span>Smart Docs</span></b-dropdown-item>
-          <b-dropdown-item href="/operational-planning"><span style="
-    width: 40px;
-    height: 40px;
-    margin-left: 12px;
-        margin-right: 20px;
-"><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 46 Copy 2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-46-Copy-2">
-            <rect id="Rectangle-2-Copy-33" fill="#13D06C" opacity="0.1" x="0" y="0" width="40" height="40" rx="12"></rect>
-            <g id="Group-Copy-3" transform="translate(10.000000, 10.000000)">
-                <path d="M19.0965567,6.36334472 L17.3636139,3.5536885 C16.9992611,2.96295557 16.2984179,2.67081564 15.6223598,2.82786297 L15.1016381,2.94882589 C14.3338521,3.12718147 13.549395,2.72565041 13.2450834,1.99853257 L12.8239198,0.992210445 C12.572388,0.391203987 11.9845789,-9.20391821e-16 11.3330599,0 L8.27348334,0 C7.56864935,3.51520509e-16 6.94510182,0.456777359 6.73255584,1.12880055 L6.50128275,1.86003474 C6.25048396,2.65300482 5.43882017,3.12617053 4.62521278,2.95370431 L3.92374428,2.80500897 C3.2468224,2.66151696 2.5536563,2.96488539 2.19977736,3.55951374 L0.532134779,6.36167983 C0.208057059,6.90623272 0.232127361,7.58993886 0.593697915,8.11035308 L1.31374455,9.1467276 C1.71453101,9.72358589 1.69682311,10.49327 1.26993154,11.0510862 L0.65624848,11.8529814 C0.25900331,12.3720588 0.213536562,13.0793122 0.541047311,13.6449815 L2.2170768,16.5397826 C2.56119985,17.1341443 3.24338118,17.4461009 3.91805207,17.3176263 L4.67079837,17.1742842 C5.46585199,17.0228857 6.25030337,17.4829237 6.50630556,18.2507093 L6.72114629,18.895046 C6.94116933,19.5549251 7.55873395,20 8.25432768,20 L11.355255,20 C11.9955271,20 12.5754319,19.6220205 12.8338897,19.0362321 L13.2602649,18.0698632 C13.5607478,17.3888259 14.2875332,17.0011095 15.0205246,17.1308218 L16.1597631,17.3324248 C16.8357429,17.4520481 17.5135331,17.1315802 17.8500485,16.533236 L19.4583156,13.6736431 C19.7849168,13.0929271 19.7216838,12.3713005 19.2990641,11.8562354 L18.5436991,10.9356391 C18.0886235,10.3810186 18.0536406,9.59278396 18.4577942,9.00002973 L19.056311,8.12221168 C19.4156204,7.59522847 19.4313862,6.90621092 19.0965567,6.36334472 Z" id="Path-6" fill="#13D06C"></path>
-                <circle id="Oval" stroke="#46EF95" stroke-width="2.5" cx="10" cy="10" r="2.5"></circle>
-            </g>
-        </g>
-    </g>
-</svg></span><span>Operational Planning</span></b-dropdown-item>
+          
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
         
@@ -317,6 +307,8 @@ body {
     border-radius: 5px !important;
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,.1) !important;
     border: none;
+    right: auto;
+    left: 0;
 }
 
 * {
@@ -1219,7 +1211,7 @@ ul.dropdown-menu li {
 }
 
 .navbar-nav {
-  margin-left: 160px;
+  margin-left: 120px;
 }
 .navbar-collapse.collapse.show {
     height: calc(100vh - 92px);

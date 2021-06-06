@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Low code</title>
+    <g id="Low-code" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2-Copy-35" fill="#FF782C" opacity="0.1" x="0" y="0" width="60" height="60" rx="20"></rect>
+        <g id="Group" transform="translate(11.000000, 11.000000)">
+            <polygon id="Path" points="0 0 38 0 38 38 0 38"></polygon>
+            <polyline id="Path" stroke="#FF782C" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" points="11.0833333 12.6666667 4.75 19 11.0833333 25.3333333"></polyline>
+            <polyline id="Path" stroke="#FF782C" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" points="26.9166667 12.6666667 33.25 19 26.9166667 25.3333333"></polyline>
+            <line x1="22.1666667" y1="6.33333333" x2="15.8333333" y2="31.6666667" id="Path" stroke="#FF782C" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

@@ -58,7 +58,7 @@ text-align: center;padding: 60px 20px;">Our Competency</h2>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 1000-components highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="1,600+ components" src="../assets/tms.svg" loading="lazy"> </p>
+                            <p>  <img alt="1,600+ components" src="../assets/enterprise-suite.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
@@ -71,7 +71,7 @@ line-height: 30px;">Enterprise suite</h4>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 demo-and-training highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="Demos and training" src="../assets/eld.svg" loading="lazy"> </p>
+                            <p>  <img alt="Demos and training" src="../assets/any-Integration.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
@@ -82,7 +82,7 @@ line-height: 30px;">Any Integration</h4>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="Performance" src="../assets/dispatch.svg" loading="lazy"> </p>
+                            <p>  <img alt="Performance" src="../assets/easy-onboarding.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
@@ -93,18 +93,18 @@ line-height: 30px;">Easy onboarding</h4>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="Performance" src="../assets/iot.svg" loading="lazy"> </p>
+                            <p>  <img alt="Performance" src="../assets/paperless-contracts.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
 letter-spacing: 0;
 text-align: center;
-line-height: 30px;">Paperless contracts</h4>
+line-height: 30px;">Paperless Docs</h4>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="Performance" src="../assets/hrms.svg" loading="lazy"> </p>
+                            <p>  <img alt="Performance" src="../assets/configurable-multitenant.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
@@ -115,7 +115,7 @@ line-height: 30px;">Configurable Multi Tenant Dashboard</h4>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 performance highlight-content match-height four-col-content" style="height: 175.844px;
     text-align: center;
 ">
-                            <p>  <img alt="Performance" src="../assets/financial.svg" loading="lazy"> </p>
+                            <p>  <img alt="Performance" src="../assets/simplified-collaboration.svg" width="80px" loading="lazy"> </p>
 
                                 <h4 style="font-size: 20px;
 color: #3A435E;
