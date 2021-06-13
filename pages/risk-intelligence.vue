@@ -80,7 +80,7 @@ line-height: 26px;">
         </div>
     </section>
     <section class="segment new-highlight-home-image-section" id="overview" style="
-    background: #FBF8FF;padding-bottom: 80px;    padding-top: 80px;">
+    background: #FBF8FF;padding-bottom: 120px;    padding-top: 120px;">
         <div class="container">
         
             <div class="row">
@@ -109,7 +109,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 80px;    padding-top: 80px;">
+    <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 120px;    padding-top: 120px;">
         <div class="container">
        
             <div class="row">
