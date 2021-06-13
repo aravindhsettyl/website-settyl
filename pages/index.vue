@@ -172,10 +172,7 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
 
                     <div class="masonry-blocks-wrap d-none d-md-block">
                         <div class="d-flex flex-row">
-                            <div class="align-self-center d-flex flex-column masonary-column-one position-relative">
-                                <!-- <div class="dots-patch d-none d-xl-block">
-                                    <img src="https://kissflow.com/wp-content/themes/kissflow_website/assets/images/image_girl.png" data-src="https://kissflow.com/wp-content/themes/kissflow_website/assets/images/image_girl.png" alt="Girl Image" data-done="Loaded">
-                                </div> -->
+                            <div class="align-self-center d-flex flex-column masonary-column-one position-relative" style="width: 33.33%;">
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;    max-width: 90%;     padding: 48px 12px 24px 12px;">
@@ -183,12 +180,12 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Low Code Platform</h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Design-Configure-Integrate without IT skills and enable futuristic citizen development capabilities.</p>
-                                        <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                        <a href="/platforms"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="d-flex flex-column align-self-center masonary-column-two">
+                            <div class="d-flex flex-column align-self-center masonary-column-two" style="width: 33.33%;">
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;    max-width: 90%;     margin-bottom: 30px;    padding: 48px 12px 24px 12px;">
@@ -196,7 +193,7 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Multimodal Visibility</h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Information at the Right Time for informed and proactive business decisions</p>
-                                         <a href="/risk-intelligence"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                         <a href="/risk-intelligence"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                                 </div>
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
@@ -208,12 +205,12 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
  Customer Analytics </h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Know your operating lanes and network before you engage and ship 
                                         </p>
-                                         <a href="/last-mile-delivery"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                         <a href="/last-mile-delivery"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="d-flex flex-column align-self-start masonary-column-three">
+                            <div class="d-flex flex-column align-self-start masonary-column-three" style="width: 33.33%;">
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
     box-shadow: 0 12px 34px 0 rgb(62 60 218 / 8%);
     border-radius: 12px;     max-width: 90%;     margin-bottom: 30px;    padding: 48px 12px 24px 12px;">
@@ -221,7 +218,7 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Operational Planning</h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Optimize resources for the complete backend automation</p>
-                                        <a href="/operational-planning"> <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                        <a href="/operational-planning"> <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important; ">View Details</button></a>
                                     </div>
                                 </div>
                                 <div class="masonary-tiles-content text-center" style="background: #FFFFFF;
@@ -231,7 +228,7 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Docs</h5>
                                         <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Enable paperless shipping documents for sustainable business<br></p>
-                                         <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                         <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                                 </div>
                                 <div class="masonary-tiles-content text-center" style="opacity: 0">
@@ -248,37 +245,36 @@ text-align: center;padding: 60px 20px 10px 20px;">Unified Global Coverage</h2>
                     <div class="d-block d-md-none mob-masonary-wrap">
                         <div class="col-12">
                             <div class="masonary-tiles-content text-center border-0 shade3">
-                                <img width="60" height="60" src="../assets/multi-module.svg" class="fullimg" alt="" loading="lazy">
-                                <div class="card-body pad-zero">
-                                    <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Multimodal Visibility</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
-                                        <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
-                                </div>
+                                <img width="60" height="60" src="../assets/low-code.svg" class="fullimg" alt="" loading="lazy">
+                                    <div class="card-body pad-zero">
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Low Code Platform</h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Design-Configure-Integrate without IT skills and enable futuristic citizen development capabilities.</p>
+                                        <a href="/platforms"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
+                                    </div>
                             </div>
                         </div>
 
 
                         <div class="col-12">
                             <div class="masonary-tiles-content text-center border-0 shade3">
-                                <img width="60" height="60" src="../assets/risk-intelligence-prod.svg" class="fullimg" alt="" loading="lazy">
+                                <img width="60" height="60" src="../assets/multi-module.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Risk Intelligence &
- Customer Analytics</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
-                                         <a href="/risk-intelligence"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Multimodal Visibility</h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Information at the Right Time for informed and proactive business decisions</p>
+                                         <a href="/risk-intelligence"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                             </div>
                         </div>
 
                         <div class="col-12">
                             <div class="masonary-tiles-content text-center border-0 shade3">
-                                 <img width="60" height="60" src="../assets/last-mile-prod.svg" class="fullimg" alt="" loading="lazy">
+                                 <img width="60" height="60" src="../assets/risk-intelligence-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
-                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Last Mile 
-Delivery Optimization</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. 
+                                        <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Risk Intelligence &
+ Customer Analytics </h5>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Know your operating lanes and network before you engage and ship 
                                         </p>
-                                         <a href="/last-mile-delivery"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                         <a href="/last-mile-delivery"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                             </div>
                         </div>
@@ -288,34 +284,22 @@ Delivery Optimization</h5>
                                 <img width="60" height="60" src="../assets/operational-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Operational Planning</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. </p>
-                                        <a href="/operational-planning"> <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Right to Optimize resources for the complete backend automation</p>
+                                        <a href="/operational-planning"> <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important; ">View Details</button></a>
                                     </div>
                             </div>
                         </div>
 
                         <div class="col-12">
                             <div class="masonary-tiles-content text-center border-0 shade3">
-                                <img width="60" height="60" src="../assets/smart-doc-prod.svg" class="fullimg" alt="" loading="lazy">
+                               <img width="60" height="60" src="../assets/smart-doc-prod.svg" class="fullimg" alt="" loading="lazy">
                                     <div class="card-body pad-zero">
                                         <h5 class="primarysemi charcoal700" style="font-size: 24px; font-weight: 700;color: #171E35;">Smart Docs</h5>
-                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been. <br></p>
-                                         <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">View Details</button></a>
+                                        <p class="charcoal400" style="font-size: 16px; font-weight: 400;color: #4E5874;margin-top:16px">Enable paperless shipping documents for sustainable business<br></p>
+                                         <a href="/multi-modal-visibility"><button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px; background: #3E3CDA !important;">View Details</button></a>
                                     </div>
                             </div>
                         </div>
-
-                        <!-- <div class="col-12">
-                            <div class="masonary-tiles-content text-center border-0 shade3">
-                                <img width="72" height="72" src="https://kissflow.com/wp-content/uploads/2021/03/Blue.png" class="fullimg" alt="" loading="lazy">
-                                <div class="card-body pad-zero">
-                                    <h5 class="primarysemi charcoal700"><strong>Unified Platform</strong></h5>
-                                    <p class="charcoal400">When all of your work is stored, moved and transacted within
-                                        a single platform, work becomes that much easier to accomplish. Simple is when
-                                        you know you have a powerful, feature packed platform to manage work.</p>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>

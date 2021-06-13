@@ -13,104 +13,39 @@
       <b-navbar-nav>
         <b-nav-item href="/platforms">Low code platform</b-nav-item>
          <b-nav-item-dropdown id="products-settyl" text="Products" right>
-           <b-dropdown-item href="/operational-planning"><span style="
+           <b-dropdown-item class="operation-menu-hover" href="/operational-planning"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
         margin-right: 20px;
-"><img width="60" height="60" src="../assets/operational-prod.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
+">
+<img width="60" height="60" src="../assets/operational-prod.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
 </span><span>Operational Planning</span></b-dropdown-item>
-          <b-dropdown-item href="/multi-modal-visibility"><span class="getting"><span style="
+          <b-dropdown-item class="multi-menu-hover" href="/multi-modal-visibility"><span class="getting"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
         margin-right: 20px;
-"><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>Group 50 Copy 2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-50-Copy-2">
-            <rect id="Rectangle-2-Copy-35" fill="#F7276D" opacity="0.1" x="0" y="0" width="40" height="40" rx="12"></rect>
-            <g id="Group" transform="translate(10.666667, 10.666667)">
-                <line x1="6.875" y1="12.890625" x2="3.91099078" y2="15.0240518" id="Path-2" stroke="#FF93B7"></line>
-                <line x1="12.6781999" y1="13.3390681" x2="15.7708564" y2="15.2205926" id="Path-3" stroke="#FF93B7"></line>
-                <line x1="9.88401796" y1="3.98846686" x2="10" y2="8.73128095" id="Path-4" stroke="#FF93B7"></line>
-                <ellipse id="Oval" fill="#F7276D" cx="10" cy="11.0294118" rx="3.75" ry="3.72242647"></ellipse>
-                <ellipse id="Oval-Copy-19" fill="#FF6D9E" cx="17.5" cy="15.9926471" rx="2.5" ry="2.48161765"></ellipse>
-                <ellipse id="Oval-Copy-20" fill="#FF6D9E" cx="2.5" cy="15.9926471" rx="2.5" ry="2.48161765"></ellipse>
-                <ellipse id="Oval-Copy-21" fill="#FF6D9E" cx="10" cy="2.48161765" rx="2.5" ry="2.48161765"></ellipse>
-            </g>
-        </g>
-    </g>
-</svg></span><span>Multimodal Visibility</span></span></b-dropdown-item>
-          <!-- <b-dropdown-item href="/last-mile-delivery"><span style="
+">
+<img width="60" height="60" src="../assets/multi-module.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
+</span><span>Multimodal Visibility</span></span></b-dropdown-item>
+          
+          <b-dropdown-item class="risk-menu-hover" href="/risk-intelligence"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
         margin-right: 20px;
-"><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-   
-    <title>Group 49 Copy 2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-49-Copy-2">
-            <rect id="Rectangle-2-Copy-35" fill="#FF782C" opacity="0.1" x="0" y="0" width="40" height="40" rx="12"></rect>
-            <g id="Group-8" transform="translate(10.000000, 10.000000)">
-                <path d="M11.0555622,12.2078182 C14.9158368,13.3244466 17.0591211,14.1222061 17.485415,14.6010968 C18.3985642,15.6269118 13.8534224,16.6328954 3.84998953,17.6190476" id="Path-5" stroke="#FFC5A4" stroke-width="0.5"></path>
-                <ellipse id="Oval-Copy" fill="#FCA878" cx="17.2380952" cy="14.7619048" rx="2" ry="1.42857143"></ellipse>
-                <ellipse id="Oval" fill="#FCA878" cx="2.38095238" cy="17.6190476" rx="2.38095238" ry="1.42857143"></ellipse>
-                <ellipse id="Oval-Copy-5" fill="#FCA878" cx="9.49404762" cy="11.6011905" rx="1.875" ry="1.125"></ellipse>
-                <g id="Group-7" transform="translate(4.761905, 0.000000)">
-                    <path d="M8.1942,8.1940251 L5.6484,10.7398251 C5.17986896,11.2078837 4.42073104,11.2078837 3.9522,10.7398251 L1.4058,8.1940251 C-0.468645534,6.31948297 -0.468593331,3.28033603 1.4059166,1.4058583 C3.28042653,-0.468619433 6.31957347,-0.468619433 8.1940834,1.4058583 C10.0685933,3.28033603 10.0686455,6.31948297 8.1942,8.1940251 L8.1942,8.1940251 Z" id="Path" fill="#FF782C"></path>
-                    <circle id="Oval" fill="#FCA878" cx="4.8" cy="4.7998251" r="1.8"></circle>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg></span><span>Last Mile Delivery Optimization</span></b-dropdown-item> -->
-          <b-dropdown-item href="/risk-intelligence"><span style="
+">
+<img width="60" height="60" src="../assets/risk-intelligence-prod.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
+</span><span style="padding-right: 24px">Risk Intelligence & Customer Analytics</span></b-dropdown-item>
+          <b-dropdown-item class="doc-menu-hover" href="#"><span style="
     width: 40px;
     height: 40px;
     margin-left: 12px;
         margin-right: 20px;
-"><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>Group 47 Copy 2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-47-Copy-2">
-            <rect id="Rectangle-2-Copy-34" fill="#00D2CC" opacity="0.1" x="0" y="0" width="40" height="40" rx="12"></rect>
-            <g id="Group-45" transform="translate(8.000000, 9.000000)">
-                <path d="M19.0433473,20.3333333 L5.13664301,20.3333333 C3.55868658,20.3333333 2.27950015,19.0541469 2.27950015,17.4761905 C2.27950015,16.9436449 2.42833794,16.4216983 2.70921829,15.9692484 L9.90360491,4.38032816 C10.7358661,3.0396985 12.4973421,2.6275844 13.8379717,3.45984555 C14.2366418,3.70733938 14.5682178,4.04921555 14.8034039,4.45526789 L21.5157215,16.0441881 C22.3065946,17.4096427 21.8408042,19.1576917 20.4753496,19.9485647 C20.0401942,20.2006073 19.5462246,20.3333333 19.0433473,20.3333333 Z" id="Path-20" fill="#00D2CC"></path>
-                <rect id="Rectangle" fill="#AEF9F7" x="11" y="7.33333333" width="2" height="5" rx="1"></rect>
-                <rect id="Rectangle-Copy-21" fill="#AEF9F7" x="11" y="14.3333333" width="2" height="2" rx="1"></rect>
-            </g>
-        </g>
-    </g>
-</svg></span><span>Risk Intelligence & Customer Analytics</span></b-dropdown-item>
-          <b-dropdown-item href="#"><span style="
-    width: 40px;
-    height: 40px;
-    margin-left: 12px;
-        margin-right: 20px;
-"><svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    
-    <title>Group 48 Copy 2</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-48-Copy-2">
-            <rect id="Rectangle-2-Copy-36" fill="#09AEF1" opacity="0.1" x="0" y="0" width="40" height="40" rx="12"></rect>
-            <g id="Group-12-Copy" transform="translate(12.000000, 10.000000)">
-                <path d="M3.2,0 L8.98116957,0 L8.98116957,0 L16,6.9018153 L16,16.8 C16,18.5673112 14.5673112,20 12.8,20 L3.2,20 C1.4326888,20 2.164332e-16,18.5673112 0,16.8 L0,3.2 C-2.164332e-16,1.4326888 1.4326888,1.65691743e-15 3.2,0 Z" id="Rectangle" fill="#09AEF1"></path>
-                <path d="M16,6.9018153 L12.0595212,6.9018153 C10.29221,6.9018153 8.85952121,5.4691265 8.85952121,3.7018153 L8.85952121,-1.65793305e-14 L8.85952121,-1.65793305e-14" id="Path-21" fill="#2BB9F3"></path>
-                <rect id="Rectangle" fill="#47C9FD" x="3.2" y="5.6" width="3.2" height="1.66666667" rx="0.833333333"></rect>
-                <rect id="Rectangle-Copy-35" fill="#47C9FD" x="3.2" y="10.0444444" width="8.88888889" height="1.66666667" rx="0.833333333"></rect>
-                <rect id="Rectangle-Copy-36" fill="#47C9FD" x="3.2" y="14.4888889" width="8.88888889" height="1.66666667" rx="0.833333333"></rect>
-            </g>
-        </g>
-    </g>
-</svg></span><span>Smart Docs</span></b-dropdown-item>
+">
+<img width="60" height="60" src="../assets/smart-doc-prod.svg"  style="width:40px;"  class="fullimg" alt="" loading="lazy">
+</span><span>Smart Docs</span></b-dropdown-item>
           
           <!-- <b-dropdown-item href="#">Other Products</b-dropdown-item> -->
         </b-nav-item-dropdown>
@@ -131,7 +66,8 @@
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
           <!-- <b-nav-item href="#">Login</b-nav-item> -->
-          <b-button size="sm" class="my-2 my-sm-0 custom-trial">Login</b-button>
+          <b-button size="sm" class="my-2 my-sm-0 custom-trial outline" style="width: 92px !important; background: none !important;border: 1px solid #fff !important; margin-right: 12px !important;">Login</b-button>
+          <b-button size="sm" class="my-2 my-sm-0 custom-trial">Book Demo</b-button>
 <!-- <b-button v-b-modal.modal-1 class="custom-trial">Get a demo</b-button> -->
         
       </b-navbar-nav>
@@ -304,11 +240,17 @@ body {
 }
 .dropdown-menu.show {
     display: block;
+    /* height: 316px; */
     border-radius: 5px !important;
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,.1) !important;
     border: none;
     right: auto;
     left: 0;
+    padding: 16px;
+    border-radius: 12px !important;
+}
+#products-settyl ul.dropdown-menu {
+    height: 316px;
 }
 
 * {
@@ -523,7 +465,7 @@ body {
 
 .custom-fluid .bg-info {
   background-color: transparent !important;
-  padding: 22px 0px;
+  padding: 16px 0px;
 }
 
 .fa-facebook:hover {
@@ -573,7 +515,7 @@ body {
 }
 
 .navbar-nav {
-  margin-left: 50px;
+  margin-left: 56px;
 }
 .navbar-collapse.collapse.show {
     height: calc(100vh - 92px);
@@ -581,8 +523,8 @@ body {
 }
 @media (min-width: 992px) {
 .navbar-expand-lg #nav-collapse .navbar-nav .nav-link {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 }
 
@@ -640,8 +582,8 @@ body {
 }
 
 ul.dropdown-menu li {
-  height: 44px;
-  line-height: 36px;
+  height: 68px;
+  line-height: 68px;
 }
 
 .custom-form-control,
@@ -667,6 +609,9 @@ ul.dropdown-menu li {
   right: 10px;
   padding: 0 26px !important;
   z-index: 2 !important;
+}
+#products-settyl .dropdown-item{
+    padding: 0.25rem 0.25rem !important;
 }
 
 .dropdown-item.active, .dropdown-item:active {
@@ -1177,7 +1122,7 @@ ul.dropdown-menu li {
 
 .custom-fluid .bg-info {
   background-color: transparent !important;
-  padding: 22px 0px;
+  padding: 16px 0px;
 }
 
 .subscribe-mail {
@@ -1198,12 +1143,13 @@ ul.dropdown-menu li {
 }
 
 .navbar-nav .nav-item .nav-link {
-  color: #fff !important;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 29px;
-  padding-top: 7px;
-  padding-bottom: 7px;
+  color: rgb(255 255 255 / 90%) !important;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.2px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 
 .navbar-nav .nav-item .nav-link:hover {
@@ -1211,7 +1157,7 @@ ul.dropdown-menu li {
 }
 
 .navbar-nav {
-  margin-left: 120px;
+  margin-left: 56px;
 }
 .navbar-collapse.collapse.show {
     height: calc(100vh - 92px);
@@ -1219,8 +1165,8 @@ ul.dropdown-menu li {
 }
 @media (min-width: 992px) {
 .navbar-expand-lg #nav-collapse .navbar-nav .nav-link {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 }
 
@@ -1276,10 +1222,25 @@ ul.dropdown-menu li {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
-
+li.multi-menu-hover a:hover, li.multi-menu-hover a:active{
+  background: #FFF2F7 !important;
+  border-radius: 4px;
+}
+li.operation-menu-hover a:hover, li.operation-menu-hover a:active{
+  background: #E7FAF0 !important;
+  border-radius: 4px;
+}
+li.risk-menu-hover a:hover, li.risk-menu-hover a:active{
+  background: #E5FAF9 !important;
+  border-radius: 4px;
+}
+li.doc-menu-hover a:hover, li.doc-menu-hover a:active{
+  background: #E9F8FE !important;
+  border-radius: 4px;
+}
 ul.dropdown-menu li {
-  height: 44px;
-  line-height: 36px;
+  height: 68px;
+  line-height: 68px;
 }
 
 .custom-form-control,

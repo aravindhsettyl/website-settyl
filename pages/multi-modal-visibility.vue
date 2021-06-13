@@ -142,7 +142,7 @@ line-height: 26px;">
         </div>
     </section>
     <section class="segment new-highlight-home-image-section" id="overview" style="
-    background: #FBF8FF;padding-bottom: 80px;    padding-top: 80px;">
+    background: #FBF8FF;padding-bottom: 120px;    padding-top: 120px;">
         <div class="container">
         
             <div class="row">
@@ -171,7 +171,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 80px;    padding-top: 80px;">
+    <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 120px;    padding-top: 120px;">
         <div class="container">
        
             <div class="row">
@@ -231,7 +231,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-     <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 80px;    padding-top: 80px;">
+     <section class="segment new-highlight-home-image-section" id="overview" style="background-image: #fff;padding-bottom: 120px;    padding-top: 120px;">
         <div class="container">
        
             <div class="row">
@@ -260,7 +260,7 @@ line-height: 26px;">
             </div>
         </div>
     </section>
-    <section class="features-four-cards" style="padding: 60px 0px;background: #FAFBFF;padding-bottom: 80px !important;">
+    <section class="features-four-cards" style="padding: 60px 0px;background: #FAFBFF;padding-bottom: 120px !important;">
         <div class="text-center head">
             <h2 class="primarysemi" style="font-size: 34px;
 color: #262E48;

@@ -128,7 +128,7 @@ We will get back to you within 1 business day
                 />
                 <div class="terms">I agree to account creation and I have read and agree to the Terms of Use, Cookie Policy and Privacy Policy.</div>
               </div>
-                <a @click="handleFormSubmit" class="btn btn-primary custom-contact-btn" v-bind:class="isAgreeCheck ? '' : 'disabled'" >Submit</a>
+                <a @click="handleFormSubmit" class="btn btn-primary custom-contact-btn" v-bind:class="isAgreeCheck ? '' : ''" >Submit</a>
                 <!-- <div class="secure">This site is protected by reCAPTCHA and the Google <span style="color: #FF4702;">Privacy Policy</span> and <span style="color: #FF4702;">Terms of Service</span> apply.</div>
                 <div v-if="isFormSubmitted" class="success_msg">Form is submitted successfully.</div> -->
               </div>
