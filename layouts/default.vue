@@ -52,7 +52,7 @@
         
         <b-nav-item href="/industries">Industries</b-nav-item>
         <b-nav-item-dropdown text="Resources" right>
-          <b-dropdown-item href="/blog">Blog</b-dropdown-item>
+          <b-dropdown-item href="https://appyoninfosolutions.com/settyl/blog/">Blog</b-dropdown-item>
           <b-dropdown-item href="#">Infographics</b-dropdown-item>
           <b-dropdown-item href="#">Case Studies</b-dropdown-item>
         </b-nav-item-dropdown>
@@ -67,7 +67,7 @@
       <b-navbar-nav class="ml-auto">
           <!-- <b-nav-item href="#">Login</b-nav-item> -->
           <b-button size="sm" class="my-2 my-sm-0 custom-trial outline" style="width: 92px !important; background: none !important;border: 1px solid #fff !important; margin-right: 12px !important;">Login</b-button>
-          <b-button size="sm" class="my-2 my-sm-0 custom-trial">Book Demo</b-button>
+          <b-button size="sm" class="my-2 my-sm-0 custom-trial" v-b-modal.modal-1>Book Demo</b-button>
 <!-- <b-button v-b-modal.modal-1 class="custom-trial">Get a demo</b-button> -->
         
       </b-navbar-nav>
@@ -142,13 +142,197 @@
             <!--/end Column--->
         </div>
     </footer>
- <b-modal id="modal-1" title="BootstrapVue">
-    <p class="my-4">Hello from modal!</p>
+ <b-modal id="modal-1" title="" hide-footer style="max-width: 650px;">
+    <div class="card-body contact-card-body" style="    padding-left: 40px;
+    padding-right: 40px;">
+                <h5 class="card-title contact-card-title" style="text-align:center;
+                
+font-size: 28px;
+color: #171E35;
+letter-spacing: 0;
+text-align: center;">Book a Demo</h5>
+                <p style="    margin: 0px auto;
+    text-align: center;    padding-bottom: 24px; font-size: 16px;
+color: #4E5874;
+letter-spacing: 0;
+text-align: center;
+line-height: 26px;">Please fill in the form below.<br/>
+We will get back to you within 24 hours. </p>
+                 <form ref="form" @submit.stop.prevent="handleSubmit">
+                   <div style="    display: inline-flex;
+    width: 100%;">
+        <b-form-group
+          label="Firstname *"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          style="width: 50%;padding-right: 32px;"
+        >
+          <b-form-input
+            id="name-input"
+            v-model="Firstname"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        <b-form-group
+          label="Lastname"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          style="width: 50%"
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        </div>
+        <b-form-group
+          label="Business Email *"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        <b-form-group
+          label="Company Name"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        <b-form-group
+          label="Phone Number"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        <b-form-group
+          label="Country *"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+        <b-form-group
+          label="What Type Solution are you looking For?"
+          label-for="name-input"
+          invalid-feedback="Name is required"
+          :state="nameState"
+          
+        >
+          <b-form-input
+            id="name-input"
+            v-model="name"
+            :state="nameState"
+            required
+          ></b-form-input>
+        </b-form-group>
+      </form>
+                <!-- <div class="input-group mb-3">
+                <input
+                  type="text"
+                  class="form-control contact-input"
+                  placeholder="Name"
+                  aria-label="Name"
+                  aria-describedby="basic-addon2"
+                  v-model="userName"
+                />
+              </div>
+              <div class="input-group mb-3">
+                <input
+                  type="text"
+                  class="form-control contact-input"
+                  placeholder="Email"
+                  aria-label="Email"
+                  aria-describedby="basic-addon2"
+                  v-model="email"
+                />
+              </div>
+              <div class="input-group mb-3">
+                <input
+                  type="text"
+                  class="form-control contact-input"
+                  placeholder="Company"
+                  aria-label="Company"
+                  aria-describedby="basic-addon2"
+                  v-model="company"
+                />
+              </div>
+              <div class="input-group mb-3">
+                <input
+                  type="text"
+                  class="form-control contact-input"
+                  placeholder="Phone"
+                  aria-label="Phone"
+                  aria-describedby="basic-addon2"
+                  v-model="phoneNumber"
+                />
+              </div>
+              <div class="input-group mb-3">
+                <textarea
+                  type="text"
+                  class="form-control contact-multi-line"
+                  placeholder="Message"
+                  aria-label="Message"
+                  aria-describedby="basic-addon2"
+                  v-model="message"
+                />
+              </div> -->
+                
+                <div class="secure">Settyl uses the information you submit to contact you via email or phone. You may unsubscribe at any time. See our <a href="/terms-of-use/">Privacy Policy </a> or <a href="/contact/"> Contact us</a> for more information</div>
+                <div v-if="isFormSubmitted" class="success_msg">Form is submitted successfully.</div>
+                <a class="btn btn-primary custom-contact-btn" style="width: 100%; margin-top: 12px;background-color: #3E3CDA;margin-bottom: 24px;border: none" v-bind:class="isAgreeCheck ? '' : ''">Submit Request</a>
+              </div>
+
   </b-modal>
   </div>
 </template>
 <style>
 
+#modal-1 .modal-dialog{
+  max-width: 650px !important;
+}
+#modal-1 div#modal-1___BV_modal_body_{
+  padding-top: 0px;
+}
+
+#modal-1 .modal-header{
+  padding-bottom: 0px;
+  border: none;
+}
 @font-face {
   font-family: Caros;
 

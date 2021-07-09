@@ -23,7 +23,9 @@
     color: #fff;
     font-size: 18px;
     font-weight: 500;    letter-spacing: 0.32px;">Deploy Industry's First Configurable Multi Country End to End Visibility Solution</p>
-              <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">Book Demo</button>
+              <!-- <button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px">Book Demo</button> -->
+                <b-button type="button" class="btn my-2 my-sm-0 custom-trial btn-secondary btn-sm" style="margin-top:24px !important;letter-spacing: 0.32px" v-b-modal.modal-1>Book Demo</b-button>
+
               </div>
             </div>
           </div>
